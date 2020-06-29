@@ -1,0 +1,41 @@
+# Change log
+
+## [4.4.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.4.0) & [4.4.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.4.0) - 2020-04-09
+
+### Fixed
+
+* "Header" | Fixed symbol: Brand-Claim (MD) color from basic-black to brand-primary-base
+* "Header" | Fixed assets: Brand-Claim (MD) Preview Images color from basic-black to brand-primary-base (Images: Brand-Claim & Measurements of Brand-Claim)
+* "Header" | Fixed overlay: opacity from "50%" to "72%"
+
+
+## [4.2.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.2.0) & [4.2.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.2.0) - 2020-01-16
+
+### Changed
+
+* "Header" | Changed symbols to new smart layout of Sketch
+
+
+## [4.0.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.0.0) & [4.0.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.0.0) - 2019-09-30
+
+### Changed
+
+* "Header" | Changed symbols of user-navigation: height from "80px" to "88px" (LG); height from "72px" to "80px" (MD)
+* "Header" | Changed symbols of complete header: height from "200px" to "208px" (LG); height from "168px" to "176px" (MD)
+* "Header" | Changed symbols of user-navigation
+
+
+## [3.4.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv3.4.0) & [3.4.0 Kit](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv3.4.0) - 2019-08-15
+
+### Added
+
+* "Header" | Added symbol to main- and sub-navigation: badge-standard/small (SM/XS)
+
+### Changed
+
+* "Header" | Changed text-style of subnavigation: active state from "basic" to "large" (SM & XS)
+
+### Fixed
+
+* "Header" | Fixed symbols of brand-claim: wrong margin-left
+* "Header" | Fixed symbols of brand-navigation: wrong naming (MD-XS)

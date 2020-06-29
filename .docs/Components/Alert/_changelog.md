@@ -1,0 +1,35 @@
+# Change log
+
+## [5.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.0.0) & [5.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.0.0) - 2020-06-25
+
+### Added
+
+* "Alert" | Added description: styling of closing cross
+
+
+## [4.4.1 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.4.1) & [4.4.1 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.4.1) - 2020-05-07
+
+### Added
+
+* "Alert" | Added description: styling and usage of links
+
+### Fixed
+
+* "Alert" | Fixed symbols: resizing and override function
+
+
+## [4.2.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.2.0) & [4.2.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.2.0) - 2020-01-16
+
+### Changed
+
+* "Alert" | Changed symbols: color of text and icon to "darker"; color of outline to "base"
+* "Alert" | Changed description of "info": color of outline from "brand-primary-base" to "info-base"
+* "Alert" | Changed symbols to new smart layout of Sketch
+* "Alert" | Changed symbols with layer styles
+
+
+## [4.0.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.0.0) & [4.0.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.0.0) - 2019-09-30
+
+### Changed
+
+* "Alert" | Changed symbols: color of text, outline and icon to "dark"

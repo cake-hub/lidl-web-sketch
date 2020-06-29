@@ -1,0 +1,11 @@
+- path: ./Getting started
+  pages:
+    - path: ./8pt grid/8pt grid.md
+    - path: ./Grid system/Grid system.md
+    - path: ./Spacing/Spacing.md
+
+- path: ./General
+
+- path: ./Components
+
+- path: ./About

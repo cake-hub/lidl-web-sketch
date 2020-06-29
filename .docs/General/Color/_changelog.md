@@ -1,0 +1,21 @@
+# Change log
+
+## [4.2.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.2.0) & [4.2.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.2.0) - 2020-01-16
+
+### Changed
+
+* "Color" | Changed description of additional colors: "badge" to "info"
+
+
+## [3.3.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv3.3.0) & [3.3.0 Kit](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv3.3.0) - 2019-07-18
+
+### Added
+
+* "Color" | Added naming to document colors: color, hex value  - i.e. brand-primary-base (#0050AA)
+
+
+## [3.2.1 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv3.2.1) & [3.2.1 Kit](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv3.2.1) - 2019-06-26
+
+### Fixed
+
+* "Color" | Fixed description of color "mark": "RGB - lighter" from" 255, 241, 0" to "253, 253, 214", "RGB - light" from "255, 244, 88" to "255, 250, 173", "HEX - lighter" from ""#FFF100" to ""#FFFDD6", "HEX - light" from "#FFF458" to ""#FFFAAD"
