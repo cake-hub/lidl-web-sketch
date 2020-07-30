@@ -194,6 +194,7 @@ They support the understanding of an information or function. Symbols are easier
 | map | ![map](assets/interaction/map@1x.png) |  |
 | microphone-on | ![microphone-on](assets/interaction/microphone-on@1x.png) | voice |
 | minus | ![minus](assets/interaction/minus@1x.png) | less |
+| paper-plane | ![paper-pane](assets/interaction/paper-plane@1x.png) | send, submit, post |
 | pause-circle | ![pause-circle](assets/interaction/pause-circle@1x.png) | pause |
 | pencil | ![pencil](assets/interaction/pencil@1x.png) | edit |
 | phone-envelope | ![phone-envelope](assets/interaction/phone-envelope@1x.png) | contact |
@@ -202,6 +203,7 @@ They support the understanding of an information or function. Symbols are easier
 | play-circle | ![play-circle](assets/interaction/play-circle@1x.png) | play |
 | plus | ![plus](assets/interaction/plus@1x.png) | more |
 | printer | ![printer](assets/interaction/printer@1x.png) | print |
+| share | ![share](assets/interaction/share@1x.png) | upload |
 | shopping-bag | ![shopping-bag](assets/interaction/shopping-bag@1x.png) |  |
 | shopping-cart-1 | ![shopping-cart-1](assets/interaction/shopping-cart-1@1x.png) |  |
 | shopping-cart-2 | ![shopping-cart-2](assets/interaction/shopping-cart-2@1x.png) | express |

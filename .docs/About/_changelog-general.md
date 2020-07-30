@@ -1,5 +1,25 @@
 # Change log
 
+## [5.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.1.0) & [5.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.1.0) - 2020-07-30
+
+### Highlights
+
+* `Added` **New symbols**: Lild Plus pricebox, radius (0px, 2px, 10px)
+* `Added` **New description**: Radius (0px, 2px, 10px)
+* `Changed` **Setup**: New description for newbies and advanced users
+
+
+## [5.0.0+doc.1 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.0.0+doc.1) & [5.0.0+doc.1 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.0.0+doc.1) - 2020-07-09
+
+### Added
+
+* `Added` **Setup**: Added Guide how to get access to the GitHub repositories
+
+### Removed
+
+* `Changed` **Migration guide**: Removed repository changes from migration guide
+
+
 ## [5.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.0.0) & [5.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.0.0) - 2020-06-25
 
 ### Highlights

@@ -12,7 +12,7 @@ Use the flap **only to promote Lidl Plus offers.**
 
 ### Overall styling
 
-- The text style is **small bold**.
+- The text style is **small-bold**.
 - The text-color is **gray-darker**.
 - The line height is **100%**.
 - The color of the upper part always is **brand-primary-base**.

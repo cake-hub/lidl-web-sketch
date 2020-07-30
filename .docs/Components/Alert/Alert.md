@@ -42,6 +42,7 @@ Different types of notifications with contextual feedback about user actions as 
 
 | Version | Attributes | Preview |
 |---|---|---|
+| primary | text- & icon-color: brand-primary-darker<br>outline-color: brand-primary-base<br>background-color: brand-primary-background<br>fixed icon: information-circle.svg | ![info](assets/with-title/info@1x.png) |
 | info | text- & icon-color: info-darker<br>outline-color: info-base<br>background-color: info-background<br>fixed icon: information-circle.svg | ![info](assets/with-title/info@1x.png) |
 | danger | text- & icon-color: danger-darker<br>outline-color: danger-base<br>background-color: danger-background<br>fixed icon: exclamation-triangle.svg | ![danger](assets/with-title/danger@1x.png) |
 | success | text- & icon-color: success-darker<br>outline-color: success-base<br>background-color: success-background<br>fixed icon: hook-circle.svg | ![success](assets/with-title/success@1x.png) |
@@ -54,6 +55,7 @@ Different types of notifications with contextual feedback about user actions as 
 
 | Version | Attributes | Preview |
 |---|---|---|
+| primary | text- & icon-color: brand-primary-darker<br>outline-color: brand-primary-base<br>background-color: brand-primary-background | ![info](assets/text/info@1x.png) |
 | info | text- & icon-color: info-darker<br>outline-color: info-base<br>background-color: info-background | ![info](assets/text/info@1x.png) |
 | danger | text- & icon-color: danger-darker<br>outline-color: danger-base<br>background-color: danger-background | ![danger](assets/text/danger@1x.png) |
 | success | text- & icon-color: success-darker<br>outline-color: success-base<br>background-color: success-background | ![success](assets/text/success@1x.png) |
