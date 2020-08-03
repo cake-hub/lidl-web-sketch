@@ -1,5 +1,12 @@
 # Change log
 
+## [5.1.1 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.1.1) & [5.1.1 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.1.1) - 2020-08-03
+
+### Fixed
+
+* `Added` **New symbols**: share.svg & paper-plane.svg to assets folder
+
+
 ## [5.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.1.0) & [5.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.1.0) - 2020-07-30
 
 ### Highlights
