@@ -49,7 +49,7 @@ It consists of an image and a text to underline the visual meaning.
 | Types | Attributes | Preview |
 |---|---|---|
 | Gray | text-color: basic-white<br>background: gray-darker  | ![bar gray](assets/bars/gray@1x.png) |
-| White |  text-color: gray-darker<br>background: basic-white | ![bar white](assets/bars/white@1x.png) |
+| White | text-color: gray-darker<br>background: basic-white | ![bar white](assets/bars/white@1x.png) |
 
 ---
 

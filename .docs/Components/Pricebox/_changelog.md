@@ -1,5 +1,12 @@
 # Change log
 
+## [5.2.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.2.0) & [5.2.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.2.0) - 2020-08-27
+
+### Removed
+
+* "Pricebox" | Removed description: Lidl Plus pricebox
+
+
 ## [5.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.1.0) & [5.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.1.0) - 2020-07-30
 
 ### Added

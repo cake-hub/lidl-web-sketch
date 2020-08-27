@@ -34,7 +34,7 @@ All offers are listed horizontally next to each other. Sliding of offers is a ch
 ### States
 
 - An item is a single navigation element in the theme-slider that is shown with an image and text.
-- The behavior of the slider button can be found in the [Slider Button description](Components/Slider%20button/Slider%20button.md).
+- The behavior of the slider button can be found in the [Slider Button description](../Slider%20button/Slider%20button.md).
 
 | Types | Attributes | Preview |
 |---|---|---|

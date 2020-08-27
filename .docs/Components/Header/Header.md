@@ -74,7 +74,7 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 - The text-style for main-navigation is **large**.
 - The text-style for sub-navigation is **basic**, except the active state which is analog to the main-navigation.
 - The background-color is **basic-white**.
-- The active main- & sub-navigation use a **small linked [badge-standard](Components/Badge/Badge.md)** in brand-primary.
+- The active main- & sub-navigation use a **small linked [badge-standard](../Badge/Badge.md)** in brand-primary.
 - The divider is displayed in a different color for each state.
 - The length of the divider is the full width of the component.
 - Its position is at the bottom of the element.

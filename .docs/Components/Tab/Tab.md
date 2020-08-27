@@ -51,7 +51,7 @@ A component to organize and navigate between related content at the same level o
 
 - There is **no inactive state**.
 - The states can be switched via the slider-buttons.
-- Styling of the slider-buttons can be found [here](Components/Slider%20button/Slider%20button.md).
+- Styling of the slider-buttons can be found [here](../Slider%20button/Slider%20button.md).
 
 ![tab: SM+XS](assets/types/complete/SM-XS@1x.png)
 

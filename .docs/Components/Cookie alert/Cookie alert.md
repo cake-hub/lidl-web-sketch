@@ -50,7 +50,7 @@ They have to agree to the cookie settings of websites to visit and interact with
 - The headline has the text-style **headline 5**.
 - The text, link and checkboxes have the text-style **small**.
 - Text-color is **gray-darker**.
-- The links (with icon) follow the rules of our [link description](General/Link/Link.md).
+- The links (with icon) follow the rules of our [link description](../../General/Link/Link.md).
 - Background-color is **white**.
 - The cookie alert has rounded corners of **2px**.
 - The buttons are **positive-primary** and **positive-secondary** style.
