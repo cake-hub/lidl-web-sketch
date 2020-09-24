@@ -34,7 +34,7 @@ It allows the user to jump to the respective pages by browsing.
 |---|---|---|
 | Default | text-color: gray-darker <br> icon-color: gray-darker <br> background-color: basic-white | ![default arrow](assets/status/arrow/default@1x.png)![default digit](assets/status/digit/default@1x.png) |
 | Hover / focus / active | text-color: basic-white <br> icon-color: basic-white <br> background-color: brand-primary-base | ![hover-focus-active arrow](assets/status/arrow/active-hover-focus@1x.png)![hover-focus-active digit](assets/status/digit/active-hover-focus@1x.png) |
-| Disabled | icon-color: gray-lighter <br> background-color: basic-white | ![disabled arrow](assets/status/arrow/disabled@1x.png) |
+| Disabled | icon-color: gray-light <br> background-color: basic-white | ![disabled arrow](assets/status/arrow/disabled@1x.png) |
 
 ---
 
