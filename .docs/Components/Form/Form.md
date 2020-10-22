@@ -106,7 +106,7 @@ They are an important element in online shops, so it is even more essential that
 |---|---|---|
 | Default | text-color: brand-primary-base<br>border: gray-base<br>icon-color: gray-darker | ![select-field: default](assets/select-field/default@1x.png) |
 | Hover / Focus | text-color: brand-primary-base<br>border: brand-primary-base<br>icon-color: gray-darker | ![select-field: hover-focus](assets/select-field/hover-focus@1x.png) |
-| Disabled | text-color: gray-base<br>border: gray-light<br>icon-color: gray-darker | ![select-field: disabled](assets/select-field/disabled@1x.png) |
+| Disabled | text-color: gray-base<br>border: gray-light<br>icon-color: gray-base | ![select-field: disabled](assets/select-field/disabled@1x.png) |
 | Error | text-color: danger-base<br>border: danger-base<br>icon-color: gray-darker | ![select-field: error](assets/select-field/error@1x.png) |
 | Success | text-color: brand-primary-base<br>border: brand-primary-base<br>icon-color: gray-darker | ![select-field: success](assets/select-field/success@1x.png) |
 

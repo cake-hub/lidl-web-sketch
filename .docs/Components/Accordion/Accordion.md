@@ -19,7 +19,7 @@ Parts of the content are hidden in a container and only displayed by the user's 
 ### Accordion
 
 - The smybol has rounded corners with a **2px** radius.
-- The default state uses **"arrow-down"** and the focus/open state use **"arrow-up"** as an icon.
+- The default/hover/focus state uses **"arrow-down"** and the open state use **"arrow-up"** as an icon.
 
 | States | Attributes | Preview |
 |---|---|---|

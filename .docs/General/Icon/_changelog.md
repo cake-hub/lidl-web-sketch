@@ -1,5 +1,12 @@
 # Change log
 
+## [5.4.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.4.0) & [5.4.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.4.0) - 2020-10-22
+
+### Changed
+
+* "Icons" | Changed symbols: "interaction" (store, store-magnifier)
+
+
 ## [5.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.1.0) & [5.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.1.0) - 2020-07-30
 
 ### Added

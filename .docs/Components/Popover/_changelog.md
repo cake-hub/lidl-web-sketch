@@ -1,5 +1,12 @@
 # Change log
 
+## [5.4.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.4.0) & [5.4.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.4.0) - 2020-10-22
+
+### Fixed
+
+* "Popover" | Fixed symbol: height of md-xs/left
+
+
 ## [4.3.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.3.0) & [4.3.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.3.0) - 2020-02-27
 
 ### Changed
