@@ -1,5 +1,12 @@
 # Change log
 
+## [5.6.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.6.0) & [5.6.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.6.0) - 2021-01-26
+
+### Fixed
+
+* "Teaser" | Fixed symbols: overrides function and bar settings
+
+
 ## [4.4.1 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.4.1) & [4.4.1 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.4.1) - 2020-05-07
 
 ### Fixed

@@ -261,7 +261,7 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 | Types | Attributes | Preview |
 |---|---|---|
 | Height | complete: 56px<br>back-function: 40px<br>main-navigation: 48px<br>sub-navigation: 48px<br>language: 24px<br>brand-navigation: depends on content<br> | ![height: SM+XS](assets/measurements/SM+XS/height@1x.png) |
-| Width | width: 480px / 320px<br>flyout: 80% / 100% | ![width: SM](assets/measurements/SM/width@1x.png)![width: XS](assets/measurements/XS/width@1x.png) |
+| Width | width: 600px / 320px<br>flyout: 80% / 100% | ![width: SM](assets/measurements/SM/width@1x.png)![width: XS](assets/measurements/XS/width@1x.png) |
 | Logo | size: 40x40px  | ![height: SM+XS](assets/measurements/SM+XS/logo@1x.png) |
 | Back-function | width: depends on breakpoint<br>icon-size: 16x16px<br>padding: 8px<br>height: 48px (includes arrow)<br>arrow-size: 16x8px| ![back-function: SM+XS](assets/measurements/SM+XS/back-function@1x.png) |
 | Main-navigation | width: depends on breakpoint<br>padding: 16px<br>height: 48px<br>divider: 1px | ![main-nav: SM+XS](assets/measurements/SM+XS/main-nav@1x.png) |

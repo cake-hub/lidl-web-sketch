@@ -35,7 +35,7 @@ It mainly appears in a website tab or bookmark. It is an important element as it
 
 | Size | Device or Purpose |
 |---|---|
-| 16x16 | Browser favicon |
+| 16x16 | Browser favicon (SVG, PNG) |
 | 32x32 | Taskbar shortcut icon |
 | 70x70 | Windows 10 |
 | 96x96 | Desktop shortcut icon (and Google TV) |

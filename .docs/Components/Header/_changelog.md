@@ -1,6 +1,14 @@
 # Change log
 
+## [5.6.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.6.0) & [5.6.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.6.0) - 2021-01-26
+
+### Changed
+
+* "Header" | Changed description: width from "480px" to "600px" (SM)
+
+
 ## [4.4.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.4.0) & [4.4.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.4.0) - 2020-04-09
+
 
 ### Fixed
 

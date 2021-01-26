@@ -1,5 +1,14 @@
 # Change log
 
+## [5.6.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.6.0) & [5.6.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.6.0) - 2021-01-26
+
+### Highlights
+
+* `Added` **New color variables**: All document colors have been transmitted to the new color variables option of Sketch (v69.x)
+* `Added` **Favicon**: New favicon in SVG file format
+* `Changed` **Symbols, text- and layer-styles**: All components now use the new color variables option of Sketch (v69.x)
+
+
 ## [5.5.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.5.0) & [5.5.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.5.0) - 2020-11-19
 
 ### Highlights
@@ -19,7 +28,7 @@
 ### Highlights
 
 * `Added` **New symbols**: Lidl Plus coupon and ribbon
-* `Changed` **Showroom section**: Additional specialties to Lidl Plus
+* `Changed` **Showroom section**: Additional specialities to Lidl Plus
 
 
 ## [5.1.1 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.1.1) & [5.1.1 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.1.1) - 2020-08-03
@@ -54,7 +63,7 @@
 ### Highlights
 
 * `Changed` **Migration guide**: New description of update version 4.x to 5.x
-* `Changed` **Libaries**: Renaming of sketch files LIDL CAKE UI Core to LIDL CAKE UI Fundamental
+* `Changed` **Libraries**: Renaming of sketch files LIDL CAKE UI Core to LIDL CAKE UI Fundamental
 
 ### Removed
 

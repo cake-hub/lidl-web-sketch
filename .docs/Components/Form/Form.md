@@ -45,7 +45,7 @@ They are an important element in online shops, so it is even more essential that
 
 - Choose a checkbox if the user must make one or more decisions about a particular element.
 - Each checkbox in a group represents a separate and independent choice.
-- Checked checkboxes use our "hook.svg" as icon.
+- Checked checkboxes use an embedded element as icon which isn't included in the icon sprite.
 
 
 | States | Attributes | Preview |
@@ -100,7 +100,7 @@ They are an important element in online shops, so it is even more essential that
 
 - The select field is part of forms and opens a list of options.
 - The consistent appearance of a select field compared to other form elements (input field, checkbox, etc.) is important and also refers to the different states.
-- Select fields use our "down.svg" as icon.
+- Select fields use our "arrow-down.svg" as icon.
 
 | States | Attributes | Preview |
 |---|---|---|

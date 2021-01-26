@@ -37,7 +37,7 @@ Use this component to aknowledge the user about an additional Lidl Plus offer wi
 |---|---|---|
 | Horizontal spacing | LG: 8px <br> MD-XS: 4px <br> text-alignment: centered | ![Horizontal spacing (LG)](assets/measurements/LG/horizontal-spacing@1x.png) ![Horizontal spacing (MD-XS)](assets/measurements/MD-XS/horizontal-spacing@1x.png)|
 | Vertical spacing | padding-top: 4px <br> padding-bottom: 8px | ![Vertical spacing (LG)](assets/measurements/LG/vertical-spacing@1x.png) ![Vertical spacing (MD-XS)](assets/measurements/MD-XS/vertical-spacing@1x.png) |
-| Height | top: 8px <br> bottom: height depending on content | ![Height (LG)](assets/measurements/LG/height@1x.png) ![Height (MD-XS)](assets/measurements/MD-XS/height@1x.png) |
+| Height | top: 8px <br> bottom: height depending on content | ![Height (LG)](assets/measurements/LG/top-vertical@1x.png) ![Height (MD-XS)](assets/measurements/MD-XS/top-vertical@1x.png) |
 | Circle size | LG: 24 x 12px <br> MD-XS: 16 x 8px | ![Size: cut out (LG)](assets/measurements/LG/top@1x.png) ![Size: cut out (MD-XS)](assets/measurements/MD-XS/top@1x.png)|
 
 ---
