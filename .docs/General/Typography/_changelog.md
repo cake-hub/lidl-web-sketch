@@ -1,5 +1,13 @@
 # Change log
 
+## [5.7.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.7.0) & [5.7.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.7.0) - 2021-02-18
+
+### Added
+
+* "Typography" | Added text-style: display 1-5 (LG & MD-XS)
+* "Typography" | Added description: display
+
+
 ## [4.4.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.4.0) & [4.4.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.4.0) - 2020-04-09
 
 ### Added

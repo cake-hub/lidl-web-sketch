@@ -27,7 +27,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ## Regular
 
-- The line height always is 140%.
+- The line-height always is **140%**.
 - It is mainly used, i. e. for body text, links, tables, lists, input fields, etc.
 
 ### Small
@@ -55,7 +55,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ## Semibold
 
-- The line height always is 140%.
+- The line-height always is **140%**.
 - It is mainly used, i. e. for headlines, labels, highlights.
 
 ### Small Bold
@@ -83,8 +83,8 @@ It helps you to present your design and content as clearly and effectively as po
 
 - Brand Claim is the company's customer approach.
 - It is positioned next to the Lidl logo in the header component.
-- It is always shown in the brand-primary-base color.
-- The line height always is 120%.
+- It is always shown in **brand-primary-base**.
+- The line-height always is **120%**.
 
 | Breakpoint | Font size | Preview |
 |---|---|---|---|
@@ -93,8 +93,8 @@ It helps you to present your design and content as clearly and effectively as po
 
 ### Button text
 
-- The text style is only used in our button component.
-- The line height is 120%.
+- The text-style is only used in our button component.
+- The line-height is **120%.**
 
 | Breakpoint | Font size | Preview |
 |---|---|---|---|
@@ -105,7 +105,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ## Bold
 
-- The line height always is 100%.
+- The line-height always is 100%.
 - It is mainly used for priceboxes and their addons.
 
 ### Small (pricebox)
@@ -145,8 +145,8 @@ It helps you to present your design and content as clearly and effectively as po
 - The page headlines are displayed in 5 levels.
 - All levels have different font sizes.
 - There are fixed font sizes from level 5 to level 1.
-- The typeface always is semibold.
-- The line height always is 120%.
+- The typeface always is **semibold**.
+- The line-height always is **120%**.
 
 ### Page headline (Level 1)
 
@@ -185,13 +185,58 @@ It helps you to present your design and content as clearly and effectively as po
 
 ---
 
+## Displays
+
+- The display text-style is defined in 5 levels.
+- All levels have different font sizes.
+- There are fixed font sizes from level 5 to level 1.
+- The typeface is always **semibold**.
+- The line-height is always **120%**.
+
+### Display (Level 1)
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 56px | ![display 1 (LG)](assets/display/level-1/LG@1x.png)
+| MD-XS | 32px | ![display 1 (MD-XS)](assets/display/level-1/MD-XS@1x.png) |
+
+### Display (Level 2)
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 52px | ![display 2 (LG) ](assets/display/level-2/LG@1x.png) |
+| MD-XS | 28px | ![display 2 (MD-XS)](assets/display/level-2/MD-XS@1x.png) |
+
+### Display (Level 3)
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 48px | ![display 3 (LG) ](assets/display/level-3/LG@1x.png) |
+| MD-XS | 24px | ![display 3 (MD-XS)](assets/display/level-3/MD-XS@1x.png) |
+
+### Display (Level 4)
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 44px | ![display 3 (LG) ](assets/display/level-4/LG@1x.png) |
+| MD-XS | 20px | ![display 3 (MD-XS)](assets/display/level-4/MD-XS@1x.png) |
+
+### Display (Level 5)
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 40px | ![display 3 (LG) ](assets/display/level-5/LG@1x.png) |
+| MD-XS | 16px | ![display 3 (MD-XS)](assets/display/level-5/MD-XS@1x.png) |
+
+---
+
 ## Section headlines
 
 - Section headlines have only one size and font.
 - It matches level 4 of the page headlines, but is written in capital letters.
 - The text of a section headline is always centered on the screen.
-- The typeface always is semibold.
-- The line height always is 120%.
+- The typeface always is **semibold**.
+- The line-height always is **120%**.
 
 | Breakpoint | Font size | Preview |
 |---|---|---|
@@ -223,6 +268,6 @@ It helps you to present your design and content as clearly and effectively as po
 
 ## Our workflow in Sketch
 
-- All text styles are included in our CAKE UI Core file.
-- With Sketch v51.2 text styles can always be linked to this document.
+- All text-styles are included in our CAKE UI Core file.
+- With Sketch v51.2 text-styles can always be linked to this document.
 - Use only these styles!

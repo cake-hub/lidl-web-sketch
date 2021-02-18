@@ -165,6 +165,7 @@ They support the understanding of an information or function. Symbols are easier
 | book-open | ![book-open](assets/interaction/book-open@1x.png) | read, literature |
 | bulletlist | ![bulletlist](assets/interaction/bulletlist@1x.png) |  |
 | calendar | ![calendar](assets/interaction/calendar@1x.png) | date, appointment |
+| calender-clock | ![calender-clock](assets/interaction/calender-clock@1x.png) | appointment, schedule |
 | camera | ![camera](assets/interaction/camera@1x.png) | photo |
 | checklist | ![checklist](assets/interaction/checklist@1x.png) |  |
 | clip | ![clip](assets/interaction/clip@1x.png) | attachment |
