@@ -1,5 +1,13 @@
 # Change log
 
+## [6.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v6.0.0) & [6.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v6.0.0) - 2021-03-22
+
+### Changed
+
+* "Accordion" | Changed symbols: with radius symbol and layer styles
+* "Accordion" | Changed symbols: with layer-style settings
+
+
 ## [5.4.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.4.0) & [5.4.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.4.0) - 2020-10-22
 
 ### Fixed

@@ -12,7 +12,8 @@ In our case, only rows are separated by a horizontal divider. The use of backgro
 
 ## Overall styling
 
-- The text-style is **basic** or **basic-bold** for headlines.
+- The text-style is [basic](../../General/Typography/Typography.md#basic) or [basic bold](../../General/Typography/Typography.md#basic-bold) for headlines.
+- The line-height is set to **default**.
 - The font-color is **gray-darker**.
 - Normal dividers have **gray-lighter** as color and a **1px thickness**.
 - Column header dividers also have gray-lighter as color but a **2px thickness**.

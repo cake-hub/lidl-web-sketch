@@ -47,8 +47,9 @@ They have to agree to the cookie settings of websites to visit and interact with
 
 ## Overall styling
 
-- The headline has the text-style **headline 5**.
-- The text, link and checkboxes have the text-style **small**.
+- The headline has the text-style [headline 5](../../General/Typography/Typography.md#page-headlines-page-headline-level-5).
+- The text, link and checkboxes have the text-style [small](../../General/Typography/Typography.md#small)
+- The line-height is set to **default**.
 - Text-color is **gray-darker**.
 - The links (with icon) follow the rules of our [link description](../../General/Link/Link.md).
 - Background-color is **white**.

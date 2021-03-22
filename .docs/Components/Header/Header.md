@@ -56,8 +56,9 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 ### Desktop & Tablet landscape (LG & MD)
 
-- The text-style for main-navigation is **large**.
-- The text-style for sub-navigation is **basic**.
+- The text-style for main-navigation is [large](../../General/Typography/Typography.md#large).
+- The text-style for sub-navigation is [basic](../../General/Typography/Typography.md#basic).
+- The line-height is set to **default**.
 - The background-color is **basic-white**.
 - The indicator is displayed in a different color for each state.
 - The length of the indicator is based on the entered text.
@@ -71,8 +72,9 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 ### Tablet portrait & Smartphone (SM & XS)
 
-- The text-style for main-navigation is **large**.
-- The text-style for sub-navigation is **basic**, except the active state which is analog to the main-navigation.
+- The text-style for main-navigation is [large](../../General/Typography/Typography.md#large).
+- The text-style for sub-navigation is [basic](../../General/Typography/Typography.md#basic), except the active state which is analog to the main-navigation.
+- The line-height is set to **default**.
 - The background-color is **basic-white**.
 - The active main- & sub-navigation use a **small linked [badge-standard](../Badge/Badge.md)** in brand-primary.
 - The divider is displayed in a different color for each state.
@@ -102,7 +104,7 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 ### Desktop & Tablet landscape (LG & MD)
 
-- The text-style is **small**.
+- The text-style is [small](../../General/Typography/Typography.md#small).
 - The line-height has **120%**.
 - The background-color always is **basic-white**.
 
@@ -125,10 +127,11 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 ## Burger-menu
 
+- The text-style always is [small bold](../../General/Typography/Typography.md#small-bold) and **uppercase**.
+- The line-height is set to **default**.
+- The background-color is always **basic-white**.
 - Use this element only for tablets (portrait) and smartphones to demonstrate the main- and sub-navigation.
 - In contrast to the user-navigation, a text is shown – limited to 5 letters.
-- The text-style always is **small-bold** and **uppercase**.
-- The background-color is always **basic-white**.
 - It uses our "bars-horizontal" icon to display a burger menu.
 - The burger changes to our "cross" icon as a close function.
 
@@ -142,8 +145,9 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 ## Brand-navigation
 
+- The text-style is [small](../../General/Typography/Typography.md#small).
+- The line-height is set to **default**.
 - Some Lidl countries have special pages to present their company (e.g. FAQ, responsibility, career …).
-- The text-style is **small**.
 
 | Types | Attributes | Preview (LG / MD-XS) |
 |---|---|---|
@@ -154,9 +158,10 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 ## Language
 
-- Required by countries that have to offer variants of the Lidl website in different national languages (e.g. Switzerland or Belgium).
-- The text-style is **small** and **uppercase**.
+- The text-style is [small](../../General/Typography/Typography.md#small) and **uppercase**.
+- The line-height is set to **default**.
 - The active state comes with a round indicator in **brand-primary-base** and **1px outline in basic-white**.
+- Required by countries that have to offer variants of the Lidl website in different national languages (e.g. Switzerland or Belgium).
 
 | Types | Attributes | Preview (LG / MD-XS) |
 |---|---|---|
@@ -168,11 +173,12 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 ## Back-function
 
-- Use this element only for tablets (portrait) and smartphones.
-- The user can go back to the previous navigation level by clicking on the link.
-- The text-style is **small-bold** and **uppercase**.
+- The text-style is [small bold](../../General/Typography/Typography.md#medium-condensed-small-bold) and **uppercase**.
+- The line-height is set to **default**.
 - The recommended icon is **arrow-left**.
 - There is **no** hover/focus or selected state.
+- Use this element only for tablets (portrait) and smartphones.
+- The user can go back to the previous navigation level by clicking on the link.
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -185,7 +191,8 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 | Types | Attributes | Preview (LG & MD) |
 |---|---|---|
-| Default | text-style: small<br>text-color: gray-darker | ![brand-claim](assets/brand/LG+MD/default@1x.png) |
+| Default | text-style: [small](../../General/Typography/Typography.md#small)
+<br>text-color: gray-darker | ![brand-claim](assets/brand/LG+MD/default@1x.png) |
 
 ---
 
@@ -195,7 +202,7 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 | Types | Attributes | Preview (LG & MD) |
 |---|---|---|
-| Default | text-style: brand-claim<br>text-color: brand-primary-base<br>position: horizontally centered with logo | ![brand-claim](assets/brand-claim/LG+MD/default@1x.png) |
+| Default | text-style: [brand claim](../../General/Typography/Typography.md#brand-claim)<br>text-color: brand-primary-base<br>position: horizontally centered with logo | ![brand-claim](assets/brand-claim/LG+MD/default@1x.png) |
 
 ---
 
@@ -291,5 +298,4 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 ### Our workflow in Sketch
 
-- To individualize the header in your product you need to detach/unlink the complete symbol from the CAKE UI Kit.
-- Fill it with realistic content and scale every single symbol to the right width or height.
+- To individualize the header in your product you need to detach/unlink the complete symbol from the LIDL CAKE UI Web kit.

@@ -19,8 +19,9 @@ This allows you to structure sections or separate them more clearly from each ot
 
 ## Overall styling
 
-- Text-style is always **sectionhead** and centered.
-- Text-color is **gray-darker**.
+- Text style is always [sectionhead](../../General/Typography/Typography.md#sectionhead) and **centered**.
+- The line-height is set to **default**.
+- Text color is **gray-darker**.
 - The lines/dividers color is **gray-lighter** and has a **2px thickness**.
 - The width of the left and right line depends on the text length and are scaled completely identically over all stylings.
 

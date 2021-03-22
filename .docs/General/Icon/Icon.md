@@ -164,8 +164,8 @@ They support the understanding of an information or function. Symbols are easier
 | bars-horizontal | ![bars-horizontal](assets/interaction/bars-horizontal@1x.png) | menu |
 | book-open | ![book-open](assets/interaction/book-open@1x.png) | read, literature |
 | bulletlist | ![bulletlist](assets/interaction/bulletlist@1x.png) |  |
+| calendar-clock | ![calendar-clock](assets/interaction/calendar-clock@1x.png) | appointment, schedule |
 | calendar | ![calendar](assets/interaction/calendar@1x.png) | date, appointment |
-| calender-clock | ![calender-clock](assets/interaction/calender-clock@1x.png) | appointment, schedule |
 | camera | ![camera](assets/interaction/camera@1x.png) | photo |
 | checklist | ![checklist](assets/interaction/checklist@1x.png) |  |
 | clip | ![clip](assets/interaction/clip@1x.png) | attachment |
@@ -176,8 +176,8 @@ They support the understanding of an information or function. Symbols are easier
 | download | ![download](assets/interaction/download@1x.png) | save |
 | ellipsis-horizontal | ![ellipsis-horizontal](assets/interaction/ellipsis-horizontal@1x.png) | more |
 | envelope-close | ![envelope-close](assets/interaction/envelope-close@1x.png) | address |
-| external-link | ![external-link](assets/interaction/external-link@1x.png) | address |
 | envelope-open | ![envelope-open](assets/interaction/envelope-open@1x.png) | newsletter |
+| external-link | ![external-link](assets/interaction/external-link@1x.png) | address |
 | eye-close | ![eye-close](assets/interaction/eye-close@1x.png) | hide |
 | eye-open | ![eye-open](assets/interaction/eye-open@1x.png) | show |
 | file | ![file](assets/interaction/file@1x.png) | paper |

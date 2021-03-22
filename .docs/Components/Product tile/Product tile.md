@@ -22,8 +22,8 @@ The product tile is a basic component which can be combined with other component
 
 ## Overall styling
 
-- The text style of the product title is **basic**.
-- The text style of the product description is **small**.
+- The text style of the product title is [basic](../../General/Typography/Typography.md#basic).
+- The text style of the product description is [small](../../General/Typography/Typography.md#small).
 - The line-height is **120%**.
 - The image ratio always is **4:3**.
 - The components has **rounded corners of 2px**.

@@ -12,7 +12,7 @@ Basically it is positioned in a context with a product tile, teaser, or image.
 
 ## Overall styling
 
-- The text style is **small bold**.
+- The text style is [small bold](../../General/Typography/Typography.md#small-bold).
 - The line height is **120%**.
 - The image has a **free-ratio**.
 - The color of the triangle always is **gray-darker**.

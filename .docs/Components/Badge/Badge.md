@@ -30,9 +30,9 @@ Basically it is positioned in a context with a text.
 
 ## Overall styling
 
-- The text-style or font-size depends on the component but is always **bold**.
-- The text-color always is **basic-white**.
+- The text-style or font-size depends on the component but is always [basic bold](../../General/Typography/Typography.md#basic-bold).
 - The line-height is **120%**.
+- The text-color always is **basic-white**.
 - The border is in **basic-white** with a **1px thickness**.
 - It always has rounded corners of **50% of its height**.
 

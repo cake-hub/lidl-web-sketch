@@ -10,7 +10,8 @@ A reference for the user that can lead directly to an external or internal desti
 
 ## Overall styling
 
-- The text-style depends on the body text and is either **small**, **basic** or **large**.
+- The text-style depends on the body text and is either [small,](../../General/Typography/Typography.md#light-condensed-small) [basic](../../General/Typography/Typography.md#basic) or [large](../../General/Typography/Typography.md#large).
+- The line-height is set to **default**.
 - A link can have multiple states: **default/visited**, **hover/focus**, **active/pressed**.
 - The appearance of the state depends on the usage or context.
 - There’s also a positive and negative version to layout on a light or dark background.

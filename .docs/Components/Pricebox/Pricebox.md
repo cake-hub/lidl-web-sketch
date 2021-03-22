@@ -10,6 +10,12 @@ The pricebox contains several fix and optional elements and is available in diff
 
 ---
 
+## Recommendations
+
+- If there is already a currency symbol in the price box no additional currency sign should be displayed in the recommended retail price or label.
+
+---
+
 ## Elements
 
 | Types | Attributes | Preview |
@@ -22,8 +28,9 @@ The pricebox contains several fix and optional elements and is available in diff
 
 ## Overall styling
 
-- The text-style is **pricebox-small** or **pricebox-medium** for the two possible sizes of the price.
-- The text-style is **pricebox-addon** for asterisk, currency & prefix.
+- The text-style is [pricebox-small](../../General/Typography/Typography.md#pricebox-small) or [pricebox-medium](../../General/Typography/Typography.md#pricebox-medium) for the two possible sizes of the price.
+- The text-style is [pricebox-addon](../../General/Typography/Typography.md#pricebox-addon) for asterisk, currency & prefix.
+- The line-height is set to **default**.
 - Additionally you can choose between a pricebox with or without prefix.
 
 | Types | Attributes | Preview |
@@ -45,12 +52,13 @@ The pricebox contains several fix and optional elements and is available in diff
 
 ## Label
 
+- The text-style always is [pricebox-addon](../../General/Typography/Typography.md#pricebox-addon).
+- The line-height is set to **default**.
+- Always use the **base-color** as background-color.
 - Combine the standard pricebox with a label to display promotions or discounts.
 - Use the label as an add-on for the **offer** pricebox.
 - You can advertise discounts, promotions or offers.
 - Like the pricebox, you can choose between different label colors.
-- The text-style always is **pricebox-addon**.
-- Always use the **base-color** as background-color.
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -62,9 +70,9 @@ The pricebox contains several fix and optional elements and is available in diff
 
 ## Basic quantity
 
-- It's used as additional info for the packaging unit, quantity or drained weight.
-- The text-style always is **small**.
+- The text-style always is [small](../../General/Typography/Typography.md#small).
 - The line-height is **120%**.
+- It's used as additional info for the packaging unit, quantity or drained weight.
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -74,15 +82,16 @@ The pricebox contains several fix and optional elements and is available in diff
 
 ## Discount
 
+- The text-style always is [pricebox-addon](../../General/Typography/Typography.md#pricebox-addon) for the discount text and the recommended retail pice (rrp).
+- The line-height is set to **default**.
 - If you want to use a discount, it can be placed in the pricebox **standard** (positive) as well as in the pricebox **offer** (negative) - with or without prefix.
-- There is a positive and negative version matching the underlying standard pricebox.
-- The text-style always is **pricebox-addon** for the discount text and the recommended retail pice (rrp).
 - The strike comes either in **danger-base** or **gray-darker** with a **1px thickness**.
+- There is a positive and negative version matching the underlying standard pricebox.
 
 | Types | Attributes | Preview |
 |---|---|---|
 | Positive | text-color: gray-darker <br> strike-color: danger-base | ![discount positive](assets/elements/discount/positive@1x.png) |
-| Negative | text-color: basic-white <br> strike-color: gray-darker | ![disocunt negative](assets/elements/discount/negative@1x.png) |
+| Negative | text-color: basic-white <br> strike-color: gray-darker | ![discount negative](assets/elements/discount/negative@1x.png) |
 
 ---
 

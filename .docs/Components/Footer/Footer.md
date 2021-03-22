@@ -41,10 +41,11 @@ The default footer contains the following elements:
 - The text-color always is **basic-white**.
 - The background-color is always **gray-base**.
 - The divider width depends on the breakpoint but has always a **height of 1px** and the **color gray-lighter**.
+- The line-height is set to **default**.
 
 | Types | Attributes | Preview |
 |---|---|---|
-|Headline|text-style: headline 5|![headline](assets/elements/headline/default@1x.png)|
+|Headline|text-style: [headline 5](../../General/Typography/Typography.md#page-headlines-page-headline-level-5)|![headline](assets/elements/headline/default@1x.png)|
 |Main-Navigation|text-style: basic|![main-nav default](assets/elements/main-navigation/LG-XS/default@1x.png)|
 |Meta-Navigation|text-style: basic|![meta-nav default](assets/elements/meta-navigation/LG-XS/default@1x.png)|
 

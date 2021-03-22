@@ -18,7 +18,8 @@ The trustbar is a possibility to show unique selling propositions, services or o
 
 ## Overall styling
 
-- The text-style is **basic**.
+- The text-style is [basic](../../General/Typography/Typography.md#basic).
+- The line-height is set to **default**.
 - The background-color always is **gray-lighter**.
 - Default states icon- and text-color is **gray-darker**.
 - The hover, focus and active state is also shown in gray-darker but the **mouse cursor changes into a link cursor (pointer)**.

@@ -22,11 +22,11 @@ All offers are listed horizontally next to each other. Sliding of offers is a ch
 
 ## Overall styling
 
+- The title has the text-style of [basic bold](../../General/Typography/Typography.md#basic-bold).
+- The subheadline comes in the text-style [small](../../General/Typography/Typography.md#small).
+- The line-height is **120%**.
 - The background comes in **basic-white**.
 - The whole component uses the **shadow-default**.
-- The title has the text-style of **basic-bold**.
-- The subheadline comes in the text-style **small**.
-- The line-height is **120%**.
 - The width of the component is **divisible by 8**.
 - The image ratio is always **4:3**.
 - Every component has **rounded corners of 2px** except the slider button.

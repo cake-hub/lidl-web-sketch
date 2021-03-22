@@ -11,15 +11,15 @@
 
 ### Changed
 
-* "Badge" | Changed symbol description of standard badge breakpoint use
+* "Badge" | Changed description: of standard badge breakpoint use
 
 
 ## [4.2.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.2.0) & [4.2.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.2.0) - 2020-01-16
 
 ### Changed
 
-* "Badge" | Changed symbols to new smart layout of Sketch
-* "Badge" | Changed symbols with layer styles
+* "Badge" | Changed symbols: new smart layout of Sketch
+* "Badge" | Changed symbols: with layer styles
 
 
 ## [4.0.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.0.0) & [4.0.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.0.0) - 2019-09-30

@@ -4,6 +4,7 @@
 
 ### Added
 
+* "Typography" | Added text-alignment left, center, right: Small, Basic, Large, Display, Headline (LG & MD-XS)
 * "Typography" | Added text-style: display 1-5 (LG & MD-XS)
 * "Typography" | Added description: display
 

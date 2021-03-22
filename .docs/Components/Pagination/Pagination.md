@@ -20,13 +20,14 @@ It allows the user to jump to the respective pages by browsing.
 
 ## Overall styling
 
-- The width depends on the number of shown digits or arrows.
-- It is only scalable by adding up the digits or arrows.
-- The text-style always is **basic**.
+- The text-style always is [basic](../../General/Typography/Typography.md#basic).
+- The line-height is set to **default**.
 - The background is **basic-white with a shadow-default**.
 - The whole element has **rounded corners with a 2px radius**.
 - Use „arrow-left“ and „arrow-right“ as icons.
 - **Only arrows can be disabled!**
+- The width depends on the number of shown digits or arrows.
+- It is only scalable by adding up the digits or arrows.
 
 ![pagination overview](assets/overall@1x.png)
 

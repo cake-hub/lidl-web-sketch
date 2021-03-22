@@ -19,12 +19,12 @@ It should give the user information about the following section through a title,
 
 ## Overall styling
 
-- Its appearance and design is similar to the teaser component.
-- However, it has **no** hover or focus state.
-- The title uses the text-style **large-bold**.
-- The subhead comes in the text-style **small**.
+- The title uses the text-style [large bold](../../General/Typography/Typography.md#large-bold).
+- The subhead comes in the text-style [small](../../General/Typography/Typography.md#small).
 - The line-height is **120%**.
+- However, it has **no** hover or focus state.
 - The background-color of a bar always has an opacity of **90%**.
+- Its appearance and design is similar to the teaser component.
 
 ---
 

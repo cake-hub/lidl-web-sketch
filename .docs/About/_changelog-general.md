@@ -1,10 +1,26 @@
 # Change log
 
+## [6.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v6.0.0) & [6.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v6.0.0) - 2021-03-22
+
+### Highlights
+
+* `Added` **New color**: disabled
+* `Added` **New layer-styles**: forms
+* `Changed` **Symbols and description**: disabled buttons
+* `Changed` **Symbols with radius symbol**: alerts, accordions, buttons, slider-buttons, to top, forms (checkbox, input- & select-field)
+* `Changed` **All symbols**: with (new) layer-styles settings
+* `Changed` **All symbols**: with new text-styles settings
+* `Removed` **All color symbols** from LIDL CAKE UI Fundamental
+* `Removed` **All shadow symbols** from LIDL CAKE UI Fundamental
+
+
 ## [5.7.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.7.0) & [5.7.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.7.0) - 2021-02-18
 
 ### Highlights
 
+* `Added` **New text-styles**: with alignment "left", "center", "right" for "Small", "Basic", "Large", "Display" & "Headline"
 * `Added` **New text-styles**: display
+
 
 ## [5.6.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.6.0) & [5.6.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.6.0) - 2021-01-26
 

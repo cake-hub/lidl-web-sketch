@@ -42,8 +42,9 @@ It consists of an image and a text to underline the visual meaning.
 
 ### Bars
 
-- The title uses the text-style **large-bold**.
-- The subhead comes in the text-style **small**.
+- The title uses the text-style [large bold](../../General/Typography/Typography.md#large-bold).
+- The subhead comes in the text-style [small](../../General/Typography/Typography.md#small).
+- The line-height is set to **default**.
 - The background-color always has an **opacity of 90%**.
 
 | Types | Attributes | Preview |

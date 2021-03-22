@@ -22,7 +22,7 @@ Colors help to emphasize and highlight your brand's appearance.
 - The **dark** and **darkest** levels of gray can also be disregarded due to no usage in our design system.
 
 | Name | Values | e.g. Gray | Accessibility (on gray-background) |
-|---|---|---|
+|---|---|---|---|
 | background | base<br>+96% white | ![gray-background](assets/gray/background@1x.png) | - |
 | lightest | base<br>+92% white | ![gray-lightest](assets/gray/lightest@1x.png) | ![accessibility-gray-lightest](assets/gray/accessibility/lightest@1x.png) |
 | lighter | base<br>+84% white | ![gray-lighter](assets/gray/lighter@1x.png) | ![accessibility-gray-lighter](assets/gray/accessibility/lighter@1x.png) |
@@ -111,7 +111,7 @@ Colors help to emphasize and highlight your brand's appearance.
 - In our case this color scheme indicates success.
 
 | Name | Values | Concept | Color |
-|---|---|---|
+|---|---|---|---|
 | base | HEX: #348553<br>RGB: 52 / 133 / 83 | - | ![success-base](assets/success/base@1x.png) |
 | background | HEX: #F7FAF8<br>RGB: 247 / 250 / 248 | base<br>+96% white | ![success-background](assets/success/background@1x.png) |
 | lighter | HEX: #DEEBE3<br>RGB: 222 / 235 / 227 | base<br>+84% white | ![success-lighter](assets/success/lighter@1x.png) |
@@ -173,6 +173,17 @@ Colors help to emphasize and highlight your brand's appearance.
 
 ---
 
+## Disabled
+
+- Use this color do display the disabled state in positive-primary buttons.
+
+| Name | Values | Concept | Color |
+|---|---|---|---|
+| base | HEX: #7E868F<br>RGB: 126 / 134 / 143 | - | ![disabled-base](assets/disabled/base@1x.png) |
+| lighter | HEX: #EAEBEC<br>RGB: 234 / 235 / 236 | base<br>+84% white | ![disabled-lighter](assets/disabled/lighter@1x.png) |
+
+---
+
 ## Basic
 
 - Colors for highest contrast.
@@ -192,7 +203,7 @@ Colors help to emphasize and highlight your brand's appearance.
 - Gradients should only be used for background areas.
 
 | Values | Brand-primary | Danger | Mark | Info | Success | Warning | Gray | Wine |
-|---|---|---|
+|---|---|---|---|---|---|---|---|---|
 | **0%**<br>**base**<br>e.g. danger-base<br><br>**60%**<br>**base**<br>e.g. danger-base<br><br>**100%**<br>**darker**<br>e.g. danger-darker | ![gradient-brand-primary](assets/gradient/brand-primary@1x.png) | ![gradient-danger](assets/gradient/danger@1x.png) | ![gradient-mark](assets/gradient/mark@1x.png) | ![gradient-info](assets/gradient/info@1x.png) | ![gradient-success](assets/gradient/success@1x.png) | ![gradient-warning](assets/gradient/warning@1x.png) | ![gradient-gray](assets/gradient/gray@1x.png) | ![gradient-wine](assets/gradient/wine@1x.png) |
 
 ---

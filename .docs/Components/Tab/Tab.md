@@ -18,7 +18,7 @@ A component to organize and navigate between related content at the same level o
 
 ## Overall styling
 
-- Text style is **basic**.
+- Text style is [basic](../../General/Typography/Typography.md#basic).
 - The line-height is **120%**.
 - All states use **shadow-default**.
 
