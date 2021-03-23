@@ -26,7 +26,7 @@ It helps you to present your design and content as clearly and effectively as po
 | Typeface | Text-style | Usage |
 |---|---|---|
 | Regular | Small, Basic, Large | for body text, links, tables, lists, input-fields, etc. |
-| Semibold | Small Bold, Basic Bold, Large Bold, Headlines, Displays, Sectionhead, Brand claim, Button text | for headlines, labels, highlights, etc. |
+| Semibold | Small Bold, Basic Bold, Large Bold, Headlines, Displays, Section head, Brand claim, Button text | for headlines, labels, highlights, etc. |
 | Bold | Pricebox addon, Pricebox small, Pricebox medium | mainly used for priceboxes and their addons |
 
 ---
@@ -223,11 +223,11 @@ It helps you to present your design and content as clearly and effectively as po
 
 ---
 
-## Sectionhead
+## Section head
 
-- Sectionheads have only one size and font.
+- Section heads have only one size and font.
 - It matches level 4 of the headlines, but is written in capital letters.
-- The text of a sectionhead is always centered on the screen.
+- The text of a section head is always centered on the screen.
 - The typeface is always **semibold**.
 - The line-height is **120%**.
 

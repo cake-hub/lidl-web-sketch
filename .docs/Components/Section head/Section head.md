@@ -19,7 +19,7 @@ This allows you to structure sections or separate them more clearly from each ot
 
 ## Overall styling
 
-- Text style is always [sectionhead](../../General/Typography/Typography.md#sectionhead) and **centered**.
+- Text style is always [section head](../../General/Typography/Typography.md#section-head) and **centered**.
 - The line-height is set to **default**.
 - Text color is **gray-darker**.
 - The lines/dividers color is **gray-lighter** and has a **2px thickness**.
@@ -31,8 +31,8 @@ This allows you to structure sections or separate them more clearly from each ot
 
 | Types | Attributes | Preview |
 |---|---|---|
-| LG | height: 32px <br> padding-left /-right: 16px <br> text-width: 60% |![Sectionhead: LG](assets/variants/LG/sectionhead@1x.png) |
-| MD-XS | height: 24px <br> padding-left /-right: 16px <br> text-width: 60% | ![Sectionhead: MD-XS](assets/variants/MD-XS/sectionhead@1x.png) |
+| LG | height: 32px <br> padding-left /-right: 16px <br> text-width: 60% |![Section head: LG](assets/variants/LG/sectionhead@1x.png) |
+| MD-XS | height: 24px <br> padding-left /-right: 16px <br> text-width: 60% | ![Section head: MD-XS](assets/variants/MD-XS/sectionhead@1x.png) |
 
 ---
 
@@ -40,9 +40,9 @@ This allows you to structure sections or separate them more clearly from each ot
 
 - Adjust the width according to the artboard size.
 - Modify the width of text but please stick to the spacing given in the documentation.
-- Modify sectionheads to your project needs by changing the colors of the text and the lines (i.e. to basic-white if you want to use the sectionhead on a dark background).
+- Modify section heads to your project needs by changing the colors of the text and the lines (i.e. to basic-white if you want to use the section head on a dark background).
 
 ### Our workflow in Sketch
 
-- Unfortunately, the symbol must be detached first to add demo content to a sectionhead.
+- Unfortunately, the symbol must be detached first to add demo content to a section head.
 - Simply adjust the lines/dividers to the distance defined for the text box.

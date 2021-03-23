@@ -1,5 +1,11 @@
 # Change log
 
+## [6.0.1 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v6.0.1) & [6.0.1 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v6.0.1) - 2021-03-23
+
+### Changed
+
+* "Section head" | Changed symbol (LG): Text Layer from SECTIONHEAD to SECTION HEAD
+
 ## [6.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v6.0.0) & [6.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v6.0.0) - 2021-03-22
 
 ### Changed

@@ -175,7 +175,7 @@ Colors help to emphasize and highlight your brand's appearance.
 
 ## Disabled
 
-- Use this color do display the disabled state in positive-primary buttons.
+- Use this color to display the disabled state in the positive buttons.
 
 | Name | Values | Concept | Color |
 |---|---|---|---|
