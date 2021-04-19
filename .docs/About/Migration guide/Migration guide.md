@@ -1,5 +1,13 @@
 # Migration guide
 
+## Update version 6.x to 7.x
+
+- We would like to keep our libraries and documentation up to date.
+According to the official brand decision, the price box info is outdated. As a result, we are saying goodbye to this component in our Web, App and Mail libraries.
+
+![Bye PriceBox info](assets/bye-pricebox-info.png)
+
+
 ## Update version 5.x to 6.x
 
 ### New symbol setup

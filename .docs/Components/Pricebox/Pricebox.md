@@ -63,7 +63,6 @@ The pricebox contains several fix and optional elements and is available in diff
 | Types | Attributes | Preview |
 |---|---|---|
 | Action | text-color: basic-white <br> background-color: danger-base | ![action label](assets/elements/labels/action@1x.png) |
-| Info | text-color: basic-white <br> background-color: info-base | ![info label](assets/elements/labels/info@1x.png) |
 | Offer | text-color: gray-darker <br> background-color: mark-base | ![offer label](assets/elements/labels/offer@1x.png) |
 
 ---
@@ -157,7 +156,6 @@ The pricebox contains several fix and optional elements and is available in diff
 | Offer #1 | label: action <br> pricebox: standard | ![offer #1](assets/combinations/offer-1@1x.png) |
 | Offer #2 | label: offer <br> pricebox: standard | ![offer #2](assets/combinations/offer-2@1x.png) |
 | Special offer | label: offer <br> pricebox: action | ![special offer](assets/combinations/special-offer@1x.png) |
-| Info | Label: info <br> pricebox: standard | ![info offer](assets/combinations/info@1x.png) |
 
 ---
 

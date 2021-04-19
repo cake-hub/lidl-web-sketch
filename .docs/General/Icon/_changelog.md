@@ -1,11 +1,26 @@
 # Change log
 
+## [7.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v7.0.0) & [7.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v7.0.0) - 2021-04-19
+
+### Added
+
+* "Icon" | Expression (3): conversation-ballons-chat, lightbulb-off, piggy-bank
+* "Icon" | Food-Beverage (3): beer-glass, bottle, piece-of-cake
+* "Icon" | Interaction (1): invoice
+* "Icon" | Nature (1): ecology-2
+* "Icon" | Payment (2): voucher-euro, voucher-gift
+* "Icon" | Technology (3): e-charging-station, keyboard, power
+* "Icon" | Transport-logistic (5): box-multiple. box-return-30-days, box-return-90-days, express-delivery, packstation
+* "Icon" | Status icon: Heart regular, solid to icon list
+* "Icon" | Description purpose heartbeat, external-link
+
+
 ## [6.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v6.0.0) & [6.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v6.0.0) - 2021-03-22
 
 ### Changed
 
 * "Icon" | Changed naming of symbol, asset and description of "interaction"
-  * "calender-clock" to "calendar-clock"
+ * "calender-clock" to "calendar-clock"
 * "Icon" | Changed symbol, asset and description of "interaction" (house)
 * "Icon" | Changed symbols: with layer-style settings
 
