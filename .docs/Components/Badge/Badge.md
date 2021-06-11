@@ -17,7 +17,7 @@ Basically it is positioned in a context with a text.
 
 | Standard | Addon |
 |---|---|
-| Use it in conjunction with text. | Used in the user-navigation of the header. |
+| Use it in conjunction with text. | Use it in the user-navigation of the header. |
 
 ---
 
@@ -108,8 +108,10 @@ Basically it is positioned in a context with a text.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Horizontal spacing | padding: 16px | ![horizontal-spacing](assets/measurements/standard/horizontal-spacing@1x.png) |
-| Vertical spacing | padding: 4px | ![vertical-spacing](assets/measurements/standard/vertical-spacing@1x.png) |
+| LG horizontal spacing for **basic**, **large** and **small** badges | LG padding: 16px | ![horizontal-spacing](assets/measurements/standard/lg-horizontal-spacing@1x.png) |
+| MD-XS horizontal spacing for **basic** and **large** badges| MD-XS padding: 16px | ![horizontal-spacing](assets/measurements/standard/md-xs-horizontal-spacing-16@1x.png) |
+| MD-XS horizontal spacing for **small** badges | MD-XS padding: 12px | ![horizontal-spacing](assets/measurements/standard/md-xs-horizontal-spacing-12@1x.png) |
+| Vertical spacing for all badges on all breakpoints (LG-XS) | LG-XS padding: 4px | ![vertical-spacing](assets/measurements/standard/vertical-spacing@1x.png) |
 | Distances | margin: 8px | ![distance](assets/measurements/standard/distance@1x.png) |
 
 ### Addon

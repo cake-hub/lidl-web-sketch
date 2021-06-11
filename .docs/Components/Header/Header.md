@@ -76,7 +76,7 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 - The text-style for sub-navigation is [basic](../../General/Typography/Typography.md#basic), except the active state which is analog to the main-navigation.
 - The line-height is set to **default**.
 - The background-color is **basic-white**.
-- The active main- & sub-navigation use a **small linked [badge-standard](../Badge/Badge.md)** in brand-primary.
+- The active main- & sub-navigation use a **small linked [badge-standard](../Badge/Badge.md#standard)** in brand-primary.
 - The divider is displayed in a different color for each state.
 - The length of the divider is the full width of the component.
 - Its position is at the bottom of the element.
@@ -100,7 +100,7 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 - The icon is always centered above the text.
 - The header has to be adjusted if the text for the title gets longer than specified as in our default component.
 - Please ensure that the distance between the elements (icon and text) always stays the same.
-- It uses the [badge-addon](../Badge/Badge.md) to display a counter (e.g. how many products are in the shopping cart or wishlist).
+- It uses the [badge-addon](../Badge/Badge.md#addon) to display a counter (e.g. how many products are in the shopping cart or wishlist).
 
 ### Desktop & Tablet landscape (LG & MD)
 
@@ -173,7 +173,7 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 ## Back-function
 
-- The text-style is [small bold](../../General/Typography/Typography.md#medium-condensed-small-bold) and **uppercase**.
+- The text-style is [small bold](../../General/Typography/Typography.md#small-bold) and **uppercase**.
 - The line-height is set to **default**.
 - The recommended icon is **arrow-left**.
 - There is **no** hover/focus or selected state.

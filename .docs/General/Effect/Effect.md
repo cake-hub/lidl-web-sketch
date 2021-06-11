@@ -30,6 +30,14 @@ The browser focus shows the element what is currently focused.
 |---|---|
 | HEX: #000000<br>rgba: 0, 0, 0, 0.15<br>settings: 0px 2px 4px 0px | ![shadow: default](assets/shadow-default@1x.png) |
 
+### Strong
+
+- This shadow should be used for all elements that require strong contrast with background.
+
+| Attributes | Preview |
+|---|---|
+| HEX: #000000<br>rgba: 0, 0, 0, 0.35<br>settings: 0px 4px 6px 3px | ![shadow: strong](assets/shadow-strong@1x.png) |
+
 ### Flyout
 
 - This shadow can only be used with superimposed elements.

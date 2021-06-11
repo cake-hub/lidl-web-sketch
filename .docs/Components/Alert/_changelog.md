@@ -1,5 +1,12 @@
 # Change log
 
+## [7.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v7.1.0) & [7.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v7.1.0) - 2021-06-11
+
+### Fixed
+
+* `Sketch`, `Doc`: "Alert" | Line-height for alert-text has been set to 140% and documentation has been updated
+
+
 ## [6.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v6.0.0) & [6.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v6.0.0) - 2021-03-22
 
 ### Changed

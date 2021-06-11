@@ -297,5 +297,4 @@ It helps you to present your design and content as clearly and effectively as po
 ## Our workflow in Sketch
 
 - All text-styles are included in our CAKE UI Core file.
-- With Sketch v51.2 text-styles can always be linked to this document.
 - Use only these styles!

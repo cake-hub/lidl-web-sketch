@@ -89,7 +89,7 @@ They support the understanding of an information or function. Symbols are easier
 | certificate | ![certificate](assets/expression/certificate@1x.png) | diploma, license |
 | comment | ![certificate](assets/expression/comment@1x.png) | speech bubble, text |
 | conversation-ballons | ![conversation-ballons](assets/expression/conversation-ballons@1x.png) | feedback |
-| ♥ conversation-ballons-chat | ![conversation-ballons-chat](assets/expression/conversation-ballons-chat@1x.png) | chat |
+| conversation-ballons-chat | ![conversation-ballons-chat](assets/expression/conversation-ballons-chat@1x.png) | chat |
 | dice-percentage | ![dice-percentage](assets/expression/dice-percentage@1x.png) | competition, gambling |
 | exclamation-ballon | ![exclamation-ballon](assets/expression/exclamation-ballon@1x.png) | statement, answer |
 | exclamation-circle | ![exclamation-circle](assets/expression/exclamation-circle@1x.png) | attention |
@@ -101,11 +101,11 @@ They support the understanding of an information or function. Symbols are easier
 | hook-shield | ![hook-shield](assets/expression/hook-shield@1x.png) | security, shield |
 | hook-square | ![hook-square](assets/expression/hook-square@1x.png) | checkbox |
 | information-circle | ![information-circle](assets/expression/information-circle@1x.png) | information |
-| ♥ lightbulb-off | ![lightbulb-off](assets/expression/lightbulb-off@1x.png) | light off, bulb, turned off |
+| lightbulb-off | ![lightbulb-off](assets/expression/lightbulb-off@1x.png) | light off, bulb, turned off |
 | lightbulb-on | ![lightbulb-on](assets/expression/lightbulb-on@1x.png) | idea, light on, bulb, note, tip |
 | newspaper | ![newspaper](assets/expression/newspaper@1x.png) | news |
 | paragraph-circle | ![paragraph-circle](assets/expression/paragraph-circle@1x.png) | imprint, legal, disclaimer |
-| ♥ piggy-bank | ![piggy-bank](assets/expression/piggy-bank@1x.png) | save money, cash, savings |
+| piggy-bank | ![piggy-bank](assets/expression/piggy-bank@1x.png) | save money, cash, savings |
 | questionmark-ballon | ![questionmark-ballon](assets/expression/questionmark-ballon@1x.png) | question |
 | questionmark-circle | ![questionmark-circle](assets/expression/questionmark-circle@1x.png) |   |
 | stop-sign | ![stop-sign](assets/expression/stop-sign@1x.png) | stop  |
@@ -122,8 +122,8 @@ They support the understanding of an information or function. Symbols are easier
 | apple | ![apple](assets/food_beverage/apple@1x.png) |  |
 | bakery-products | ![bakery-products](assets/food_beverage/bakery-products@1x.png) |  |
 | barrel | ![barrel](assets/food_beverage/barrel@1x.png) | maturity (wine) |
-| ♥ beer-glass | ![beer-glass](assets/food_beverage/beer-glass@1x.png) | beer |
-| ♥ bottle | ![bottle](assets/food_beverage/bottle@1x.png) | single glass bottle |
+| beer-glass | ![beer-glass](assets/food_beverage/beer-glass@1x.png) | beer |
+| bottle | ![bottle](assets/food_beverage/bottle@1x.png) | single glass bottle |
 | bottles | ![bottles](assets/food_beverage/bottles@1x.png) | storage (wine) |
 | bread | ![bread](assets/food_beverage/bread@1x.png) | bake, bakery |
 | bun | ![bun](assets/food_beverage/bun@1x.png) |  |
@@ -141,7 +141,7 @@ They support the understanding of an information or function. Symbols are easier
 | grill | ![grill](assets/food_beverage/grill@1x.png) | barbecue (wine) |
 | mug-hot | ![mug-hot](assets/food_beverage/mug-hot@1x.png) | coffee, tea, hot drinks  |
 | olive-cheese | ![olive-cheese](assets/food_beverage/olive-cheese@1x.png) | aperitif (wine), appetizer (wine), canapé (wine) |
-| ♥ piece-of-cake | ![piece-of-cake](assets/food_beverage/piece-of-cake@1x.png) | a piece of cake |
+| piece-of-cake | ![piece-of-cake](assets/food_beverage/piece-of-cake@1x.png) | a piece of cake |
 | pretzel | ![pretzel](assets/food_beverage/pretzel@1x.png) |  |
 | salad-bowl | ![salad-bowl](assets/food_beverage/salad-bowl@1x.png) | salad |
 | salami | ![salami](assets/food_beverage/salami@1x.png) |  |
@@ -192,7 +192,7 @@ They support the understanding of an information or function. Symbols are easier
 | hand-pointer | ![hand-pointer](assets/interaction/hand-pointer@1x.png) |  |
 | hook | ![hook](assets/interaction/hook@1x.png) | check, ok |
 | house | ![house](assets/interaction/house@1x.png) | home |
-| ♥ invoice | ![invoice](assets/interaction/invoice@1x.png) | paper, notes, bill, receipt, document |
+| invoice | ![invoice](assets/interaction/invoice@1x.png) | paper, notes, bill, receipt, document |
 | lock-close | ![lock-close](assets/interaction/lock-close@1x.png) | security, secure |
 | lock-open | ![lock-open](assets/interaction/lock-open@1x.png) | insecure |
 | magnifier-plus | ![magnifier-plus](assets/interaction/magnifier-plus@1x.png) | zoom in |
@@ -238,7 +238,7 @@ They support the understanding of an information or function. Symbols are easier
 | earth-map-marker | ![earth-map-marker](assets/nature/earth-map-marker@1x.png) | region (wine) |
 | earth | ![earth](assets/nature/earth@1x.png) |  |
 | ecology | ![ecology](assets/nature/ecology@1x.png) | sustainable |
-| ♥ ecology-2 | ![ecology-2](assets/nature/ecology-2@1x.png) | world, care, earth |
+| ecology-2 | ![ecology-2](assets/nature/ecology-2@1x.png) | world, care, earth |
 | heartbeat | ![heartbeat](assets/nature/heartbeat@1x.png) | health, pulse |
 | leaf | ![leaf](assets/nature/leaf@1x.png) |  |
 | snowflake | ![snowflake](assets/nature/snowflake@1x.png) | ice, snow, frost, freeze, cold |
@@ -272,8 +272,8 @@ They support the understanding of an information or function. Symbols are easier
 | credit-card | ![credit-card](assets/payment/credit-card@1x.png) | electronic cash |
 | money-return | ![earth](assets/payment/money-return@1x.png) |  |
 | money | ![money](assets/payment/money@1x.png) | salary, wage |
-| ♥ voucher-euro | ![voucher-euro](assets/payment/voucher-euro@1x.png) | voucher, bond |
-| ♥ voucher-gift | ![voucher-euro](assets/payment/voucher-gift@1x.png) | gift, voucher |
+| voucher-euro | ![voucher-euro](assets/payment/voucher-euro@1x.png) | voucher, bond |
+| voucher-gift | ![voucher-euro](assets/payment/voucher-gift@1x.png) | gift, voucher |
 | voucher-percentage | ![voucher-percentage](assets/payment/voucher-percentage@1x.png) |  |
 | wallet-coins | ![wallet-coins](assets/payment/wallet-coins@1x.png) |  |
 
@@ -325,9 +325,9 @@ They support the understanding of an information or function. Symbols are easier
 | computer-mouse | ![computer-mouse](assets/technology/computer-mouse@1x.png) | software |
 | display-play | ![display-play](assets/technology/display-play@1x.png) | video |
 | display | ![display](assets/technology/display@1x.png) | screen |
-| ♥ e-charging-station| ![display-play](assets/technology/e-charging-station@1x.png) | mobility, charging, e-station |
-| ♥ keyboard| ![display-play](assets/technology/keyboard@1x.png) | hardware, typing|
-| ♥ power| ![display-play](assets/technology/power@1x.png) | plug, electric |
+| e-charging-station| ![display-play](assets/technology/e-charging-station@1x.png) | mobility, charging, e-station |
+| keyboard| ![display-play](assets/technology/keyboard@1x.png) | hardware, typing|
+| power| ![display-play](assets/technology/power@1x.png) | plug, electric |
 | smartphone | ![smartphone](assets/technology/smartphone@1x.png) | mobile |
 | wifi | ![wifi](assets/technology/wifi@1x.png) |  |
 
@@ -340,16 +340,16 @@ They support the understanding of an information or function. Symbols are easier
 | Name | Icon | Purpose |
 |---|---|---|
 | bicycle | ![bicycle](assets/transport_logistic/bicycle@1x.png) |  |
-| box | ![box](assets/transport_logistic/box@1x.png) | package, delivery |
+| ♥ box | ![box](assets/transport_logistic/box@1x.png) | package, delivery |
 | box-coins-return | ![box-coins-return](assets/transport_logistic/box-coins-return@1x.png) | money back  |
-| ♥ box-multiple| ![box-multiple](assets/transport_logistic/box-multiple@1x.png) | send multiple packages |
+| box-multiple| ![box-multiple](assets/transport_logistic/box-multiple@1x.png) | send multiple packages |
 | box-open | ![box-open](assets/transport_logistic/box-open@1x.png) |  |
 | box-return | ![box-return](assets/transport_logistic/box-return@1x.png) | right of return |
-| ♥ box-return-30-days | ![box-return-30-days](assets/transport_logistic/box-return-30-days@1x.png) |  |
-| ♥ box-return-90-days | ![box-return-90-days](assets/transport_logistic/box-return-90-days@1x.png) |  |
+| box-return-30-days | ![box-return-30-days](assets/transport_logistic/box-return-30-days@1x.png) |  |
+| box-return-90-days | ![box-return-90-days](assets/transport_logistic/box-return-90-days@1x.png) |  |
 | car | ![car](assets/transport_logistic/car@1x.png) |  |
-| ♥ express-delivery | ![express-delivery](assets/transport_logistic/express-delivery@1x.png) |  |
-| ♥ packstation | ![packstation](assets/transport_logistic/packstation@1x.png) |  |
+| express-delivery | ![express-delivery](assets/transport_logistic/express-delivery@1x.png) |  |
+| packstation | ![packstation](assets/transport_logistic/packstation@1x.png) |  |
 | plane | ![plane](assets/transport_logistic/plane@1x.png) | travel |
 | truck | ![truck](assets/transport_logistic/truck@1x.png) | delivery |
 

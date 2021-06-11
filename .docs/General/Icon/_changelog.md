@@ -1,5 +1,12 @@
 # Change log
 
+## [7.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v7.1.0) & [7.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v7.1.0) - 2021-06-11
+
+### Changed
+
+* `Sketch`, `Doc`: "Icon" | Changed transport and logistic box icon
+
+
 ## [7.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v7.0.0) & [7.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v7.0.0) - 2021-04-19
 
 ### Added

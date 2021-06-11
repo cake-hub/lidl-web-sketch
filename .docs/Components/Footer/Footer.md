@@ -45,7 +45,7 @@ The default footer contains the following elements:
 
 | Types | Attributes | Preview |
 |---|---|---|
-|Headline|text-style: [headline 5](../../General/Typography/Typography.md#page-headlines-page-headline-level-5)|![headline](assets/elements/headline/default@1x.png)|
+|Headline|text-style: [headline 5](../../General/Typography/Typography.md#headlines-headline-level-5)|![headline](assets/elements/headline/default@1x.png)|
 |Main-Navigation|text-style: basic|![main-nav default](assets/elements/main-navigation/LG-XS/default@1x.png)|
 |Meta-Navigation|text-style: basic|![meta-nav default](assets/elements/meta-navigation/LG-XS/default@1x.png)|
 

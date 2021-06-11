@@ -1,5 +1,17 @@
 # Change log
 
+## [7.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v7.1.0) & [7.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v7.1.0) - 2021-06-11
+
+### Fixed
+
+* `Sketch`: "Badge" | Top and bottom spacings are fixed
+
+
+### Added
+
+* `Doc`: "Badge" | Horizontal spacing & measurement for small badges MD-XS, defined valid vertical spacing & measurement
+
+
 ## [5.6.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.6.0) & [5.6.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.6.0) - 2021-01-26
 
 ### Fixed

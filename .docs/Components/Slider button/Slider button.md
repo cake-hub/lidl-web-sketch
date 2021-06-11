@@ -36,7 +36,7 @@ It can be used as a stand-alone or can be implemented into other components (i.e
 ## What can be modified?
 
 - Override the arrows.
-- Adjust the width and height.
+- Adjust the height.
 
 ### Our workflow in Sketch
 

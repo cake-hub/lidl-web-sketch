@@ -19,7 +19,7 @@ The logo gives a visual representation of your company brand.
 
 ## Logo RGB
 
-- The logo is the most important recognition element of the lidl brand.
+- The logo is the most important recognition element of the Lidl brand.
 
 ![logo: rgb](assets/logo_RGB@1x.png)
 
