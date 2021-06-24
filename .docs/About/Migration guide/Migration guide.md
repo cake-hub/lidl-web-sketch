@@ -1,5 +1,17 @@
 # Migration guide
 
+## Update version 7.x to 8.x
+
+### New Pricebox updates
+
+![PriceBox update](assets/pricebox-update/pricebox-update.png)
+
+- The harmonization steps for our pricebox are now fully implemented in our library. Everything is ready to be used! To be sure that the sizes fit to the new spacing & measurements there are small steps that need to be done. We would like to offer our guidance for you:
+  - Select your placed symbol, right click and "Set to Original Size"
+  - If you have placed a single pricebox item, keep in mind to check the spacings between the items. Our updated documentation will help you out!
+  - If you detached the pricebox symbol, please check if the connected text-styles e.g. the basic quantitiy text and the label now have their own text-style.
+
+
 ## Update version 6.x to 7.x
 
 - We would like to keep our libraries and documentation up to date.
@@ -50,7 +62,7 @@ Don't worry! Replacing symbols in layer-styles is not as complicated as it seems
 
 ### Global file renaming
 
-- The name of **LIDL CAKE UI Core** has been changed to **LIDL CAKE UI Fundamental** due to the new library setup of some Lidl Digital's CI elements.
+- The name of **LIDL CAKE UI Core** has been changed to **LIDL CAKE UI Fundamental** due to the new library setup of some LIDL Digital's CI elements.
 - The new LIDL CAKE UI Fundamental library only consists of symbols, text- and layer-styles that are *fundamental* to each of our products.
 
 ### Symbol transfer

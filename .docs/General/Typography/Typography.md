@@ -4,16 +4,16 @@ It is mandatory to maintain the appearance and behavior of these components.
 
 # Typography
 
-The Lidl Font was developed for the various topics and applications of Lidl's brand communication and represents the brand values and the brand core on a typographical level.
+The LIDL Font was developed for the various topics and applications of LIDL's brand communication and represents the brand values and the brand core on a typographical level.
 
-It helps you to present your design and content as clearly and effectively as possible according to the Lidl standard.
+It helps you to present your design and content as clearly and effectively as possible according to the LIDL standard.
 
 ---
 
-## Lidl Font Condensed Pro
+## LIDL Font Condensed Pro
 
 - It looks **informative**, **useful** and **efficient**.
-- In combination, they represent the variety of topics and actions and, at the same time, are **100% Lidl**.
+- In combination, they represent the variety of topics and actions and, at the same time, are **100% LIDL**.
 - Use any base color of **brand-primary**, **danger**, **success**, **info** or **warning** as text color as long as it has a high contrast ratio in interaction with backgrounds.
 
 > - All types of headings should primarily be used in **single line scenarios**.
@@ -106,7 +106,7 @@ It helps you to present your design and content as clearly and effectively as po
 ## Brand Claim
 
 - Brand Claim is the company's customer approach.
-- It is positioned next to the Lidl logo in the header component.
+- It is positioned next to the LIDL logo in the header component.
 - The typeface is always **semibold**.
 - It is always shown in **brand-primary-base**.
 - The line-height is **120%**.
@@ -252,6 +252,16 @@ It helps you to present your design and content as clearly and effectively as po
 | LG | 14px | ![Pricebox - addon (LG)](assets/pricebox/addon/LG@1x.png) |
 | MD-XS | 12px | ![Pricebox - addon (MD-XS)](assets/pricebox/addon/MD-XS@1x.png) |
 
+### Basic quantity
+
+- These font sizes are only used for the basic quantity text of our pricebox.
+- The line-height is **120%**.
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 12px | ![Basic quanitity (LG)](assets/pricebox/basic-quantity/LG@1x.png) |
+| MD-XS | 10px | ![Basic quanitity (MD-XS)](assets/pricebox/basic-quantity/MD-XS@1x.png) |
+
 ### Small
 
 - These font sizes are for a small pricebox which is used on our product tile on our search result page.
@@ -261,6 +271,16 @@ It helps you to present your design and content as clearly and effectively as po
 | LG | 36px | ![Pricebox - small (LG)](assets/pricebox/small/LG@1x.png) |
 | MD+SM | 28px | ![Pricebox - small (MD+SM)](assets/pricebox/small/MD+SM@1x.png) |
 | XS | 20px | ![Pricebox - small (XS)](assets/pricebox/small/XS@1x.png) |
+
+### Label
+
+- These font sizes are for all priceboxes which use a label.
+
+| Breakpoint | Font size | Preview |
+|---|---|---|
+| LG | 18px | ![Pricebox - label (LG)](assets/pricebox/label/LG@1x.png) |
+| MD+SM | 16px | ![Pricebox - label (MD+SM)](assets/pricebox/label/MD-SM@1x.png) |
+| XS | 14px | ![Pricebox - label (XS)](assets/pricebox/label/XS@1x.png) |
 
 ### Medium
 

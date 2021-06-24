@@ -10,7 +10,7 @@ Different types of notifications with contextual feedback about user actions as 
 
 ## General information
 
-**Our "info" alert matches our brand-primary color**. Blue is the best color to demonstrate an "info" alert from UX point of view, in our case and in online studies. Part of the Lidl brand colors is "blue" and also the "brand-primary-color" on a digital device. It didn't make sense to create a new color "blue" for an "info" purpose. That's why the "brand-primary-color" for Lidl matches the "info" color. But if, for example, the "brand-primary-color" for Lidl will change, only the components using the "brand-primary-color" will change. This has the benefit that all info elements will stay "blue".
+**Our "info" alert matches our brand-primary color**. Blue is the best color to demonstrate an "info" alert from UX point of view, in our case and in online studies. Part of the LIDL brand colors is "blue" and also the "brand-primary-color" on a digital device. It didn't make sense to create a new color "blue" for an "info" purpose. That's why the "brand-primary-color" for LIDL matches the "info" color. But if, for example, the "brand-primary-color" for LIDL will change, only the components using the "brand-primary-color" will change. This has the benefit that all info elements will stay "blue".
 
 ---
 

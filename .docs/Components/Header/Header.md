@@ -7,13 +7,13 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 The header is one of the essential components to create brand awareness.
 
-The appearance symbolizes customers that they are on a Lidl page now. Its strongest supporting element is the Lidl logo with the brand claim.
+The appearance symbolizes customers that they are on a LIDL page now. Its strongest supporting element is the LIDL logo with the brand claim.
 
 ---
 
 ## Recommendations
 
-- Keep the globally known Lidl Logo in the header.
+- Keep the globally known LIDL Logo in the header.
 - Only change the brand claim regarding to your country.
 
 ---
@@ -51,7 +51,7 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 ## Main- & Sub-navigation
 
 - There are different types of use for each section of the navigation.
-- Use the main-navigation for services that Lidl has to offer in your country (e.g. branch or special offers, online shop, travel, recipes …).
+- Use the main-navigation for services that LIDL has to offer in your country (e.g. branch or special offers, online shop, travel, recipes …).
 - Use the sub-navigation if a service has subitems (e.g. online shop with subcategories such as bicycle, fashion, household & kitchen …).
 
 ### Desktop & Tablet landscape (LG & MD)
@@ -147,7 +147,7 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 
 - The text-style is [small](../../General/Typography/Typography.md#small).
 - The line-height is set to **default**.
-- Some Lidl countries have special pages to present their company (e.g. FAQ, responsibility, career …).
+- Some LIDL countries have special pages to present their company (e.g. FAQ, responsibility, career …).
 
 | Types | Attributes | Preview (LG / MD-XS) |
 |---|---|---|
@@ -161,7 +161,7 @@ The appearance symbolizes customers that they are on a Lidl page now. Its strong
 - The text-style is [small](../../General/Typography/Typography.md#small) and **uppercase**.
 - The line-height is set to **default**.
 - The active state comes with a round indicator in **brand-primary-base** and **1px outline in basic-white**.
-- Required by countries that have to offer variants of the Lidl website in different national languages (e.g. Switzerland or Belgium).
+- Required by countries that have to offer variants of the LIDL website in different national languages (e.g. Switzerland or Belgium).
 
 | Types | Attributes | Preview (LG / MD-XS) |
 |---|---|---|

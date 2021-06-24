@@ -4,9 +4,9 @@
 
 # Pricebox
 
-Use this component **only to promote a special Lidl Plus price** to the customer.
+Use this component **only to promote a special LIDL Plus price** to the customer.
 
-> The usage of the Lidl Plus pricebox **must be coordinated with and permitted by the legal department of your Lidl country**.
+> LIDL usage of the LIDL Plus pricebox **must be coordinated with and permitted by the legal department of your LIDL country**.
 
 ---
 
@@ -19,17 +19,17 @@ The Lidl Plus pricebox is a combination of different single elements:
 3. [RRP / Positive](../../Components/Pricebox/Pricebox.md#discount)
 4. [Basic quantity](../../Components/Pricebox/Pricebox.md#basic-quantity)
 
-![Lidl Plus: pricebox](assets/variants/pricebox@1x.png)
+![LIDL Plus: pricebox](assets/variants/pricebox@1x.png)
 
 ---
 
 ## Recommendations
 
-- You have to create the complete pricebox out of the **Lidl Plus pricebox**, **rrp** and **basic quantity** symbol due to a Sketch rescaling problem.
+- You have to create the complete pricebox out of the **LIDL Plus pricebox**, **rrp** and **basic quantity** symbol due to a Sketch rescaling problem.
 
 ---
 
-## Spacing & measurements
+## Spacing & Measurements
 
 - All the single spacing and measurements for every component can be found under the standard [pricebox](../../Components/Pricebox/Pricebox.md#spacing--measurements).
 
@@ -40,12 +40,12 @@ The Lidl Plus pricebox is a combination of different single elements:
 
 ---
 
-## Position & combinations
+## Position & Combinations
 
 > Use it only in combination with a **product tile, teaser or image**.
 
 - The pricebox is placed in the **lower right corner**.
 - The distance of the pricebox to the borders of the product tile is **16px** each.
-- The component **can be displayed** in combination with a Lidl Plus ribbon.
+- The component **can be displayed** in combination with a LIDL Plus ribbon.
 
 ![position](assets/position/pricebox@1x.png)

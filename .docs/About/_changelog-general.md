@@ -50,7 +50,7 @@
 ### Highlights
 
 * `Added` **New symbols**: Lidl Plus coupon and ribbon
-* `Changed` **Showroom section**: Additional specialities to Lidl Plus
+* `Changed` **Showroom section**: Additional specialities to LIDL Plus
 
 
 ## [5.1.1 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.1.1) & [5.1.1 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.1.1) - 2020-08-03
@@ -96,7 +96,7 @@
 
 ### Highlights
 
-* `Added` **New symbol**: Lidl Plus flap
+* `Added` **New symbol**: LIDL Plus flap
 
 
 ## [4.3.0 Core](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-core/browse?at=refs%2Ftags%2Fv4.3.0) & [4.3.0 Web](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-web/browse?at=refs%2Ftags%2Fv4.3.0) - 2020-02-27

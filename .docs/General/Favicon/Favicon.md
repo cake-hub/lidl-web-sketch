@@ -12,14 +12,14 @@ It mainly appears in a website tab or bookmark. It is an important element as it
 ## General
 
 - It has to be used as favicon only and can't be integrated into any content.
-- The complete definition of the favicon matches the definition of the Lidl logo which can be found on [brand.lidl](https://brand.lidl).
+- The complete definition of the favicon matches the definition of the LIDL logo which can be found on [brand.lidl](https://brand.lidl).
 - All sizes are available in the LIDL CAKE UI Fundamentals assets folder.
 
 ---
 
 ## Types
 
-- There is only **one version** of the Lidl favicon.
+- There is only **one version** of the LIDL favicon.
 
 | Version | Preview |
 |---|---|

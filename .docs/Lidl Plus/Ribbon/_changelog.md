@@ -4,4 +4,4 @@
 
 ### Changed
 
-* "Lidl Plus Ribbon" | Changed symbols: with layer-style settings
+* "LIDL Plus Ribbon" | Changed symbols: with layer-style settings

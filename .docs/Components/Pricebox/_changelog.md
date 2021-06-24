@@ -1,5 +1,12 @@
 # Change log
 
+## [8.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.0.0) & [8.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.0.0) - 2021-06-24
+
+### Highlights
+
+* `Sketch`, `Doc`: "Pricebox" | Harmonized pricebox to be closer to the print pricebox with new text color, text size and spacings
+
+
 ## [7.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v7.0.0) & [7.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v7.0.0) - 2021-04-19
 
 ### Highlights
@@ -18,7 +25,7 @@
 
 ### Removed
 
-* "Pricebox" | Removed description: Lidl Plus pricebox
+* "Pricebox" | Removed description: LIDL Plus pricebox
 
 
 ## [5.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.1.0) & [5.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.1.0) - 2020-07-30

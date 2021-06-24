@@ -4,9 +4,9 @@
 
 # Ribbon
 
-Use this component to promote the Lidl Plus app directly. That's why the ribbon shows the special app icon.
+Use this component to promote the LIDL Plus app directly. That's why the ribbon shows the special app icon.
 
-> Use it **only to promote Lidl Plus offers**  and only in combination with a **product tile, teaser or image**.
+> Use it **only to promote LIDL Plus offers**  and only in combination with a **product tile, teaser or image**.
 
 ---
 
@@ -16,9 +16,9 @@ Use this component to promote the Lidl Plus app directly. That's why the ribbon 
 - The color of the triangle always is **gray-darker**.
 - The background-shadow is **shadow-default**.
 - The background has **rounded corners of 2px on the upper- & lower-left**.
-- It always comes with the **Lidl Plus app icon** in different sizes for each breakpoint.
+- It always comes with the **LIDL Plus app icon** in different sizes for each breakpoint.
 
-![Lidl Plus: ribbon](assets/variants/ribbon@1x.png)
+![LIDL Plus: ribbon](assets/variants/ribbon@1x.png)
 
 ---
 
@@ -38,7 +38,7 @@ Use this component to promote the Lidl Plus app directly. That's why the ribbon 
 
 - The ribbon is positioned in the **upper right corner** like every other standard ribbon.
 - The distance of the ribbon to the upper right corner is **8px**.
-- It **can be displayed** in combination with a Lidl Plus pricebox or coupon.
-- It **can't be displayed** in combination with the Lidl Plus flap.
+- It **can be displayed** in combination with a LIDL Plus pricebox or coupon.
+- It **can't be displayed** in combination with the LIDL Plus flap.
 
 ![position](assets/position/ribbon@1x.png)

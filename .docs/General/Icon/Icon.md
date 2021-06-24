@@ -357,6 +357,6 @@ They support the understanding of an information or function. Symbols are easier
 
 ## More icons
 
-- The Lidl universe contains plenty of other icons that are not available in our design system and frontend framework.
-- The naming of SVG files also differs from the Lidl standard because of the general usage of icons in our product.
+- The LIDL universe contains plenty of other icons that are not available in our design system and frontend framework.
+- The naming of SVG files also differs from the LIDL standard because of the general usage of icons in our product.
 - For more icons and further details log on to [brand.lidl](https://www.brand.lidl/site/login)

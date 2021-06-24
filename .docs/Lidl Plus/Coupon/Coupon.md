@@ -6,19 +6,19 @@
 
 Use this component if there is no possibility to display a specific product pricebox because the discount relates to a complete category or offer.
 
-> Use it **only to promote Lidl Plus offers**  and only in combination with a **product tile, teaser or image**.
+> Use it **only to promote LIDL Plus offers**  and only in combination with a **product tile, teaser or image**.
 
 ---
 
 ## Overall styling
 
 - The text-style is **pricebox-small** and **small**.
-- The text-color is **basic-white** and **gray-darker**.
+- The text-color is **basic-white** and **basic-black**.
 - The color of the upper part always is **brand-primary-base**.
 - The color of the lower part always is **mark-base**.
 - The background has **rounded corners of 2px**.
 
-![Lidl Plus: coupon](assets/variants/coupon@1x.png)
+![LIDL Plus: coupon](assets/variants/coupon@1x.png)
 
 ---
 
@@ -43,6 +43,6 @@ Use this component if there is no possibility to display a specific product pric
 
 - The coupon is placed in the **lower right corner** instead of a pricebox.
 - The distance of the coupon to the borders of the product tile is **16px** each.
-- It **can be displayed** in combination with a Lidl Plus ribbon.
+- It **can be displayed** in combination with a LIDL Plus ribbon.
 
 ![position](assets/position/coupon@1x.png)

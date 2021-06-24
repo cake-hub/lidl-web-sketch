@@ -1,5 +1,12 @@
 # Change log
 
+## [8.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.0.0) & [8.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.0.0) - 2021-06-24
+
+### Added
+
+* `Sketch`, `Doc`: "Typography" | New basic quantity, label text-style is available
+
+
 ## [5.7.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v5.7.0) & [5.7.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v5.7.0) - 2021-02-18
 
 ### Added

@@ -36,11 +36,11 @@ Colors help to emphasize and highlight your brand's appearance.
 
 ## Brand Colors
 
-- The Lidl brand colors communicate the personality of the brand.
-- Lidl blue, red and yellow - the contrasting primary colors symbolize **responsibility**, **dynamism** and **vitality**.
+- The LIDL brand colors communicate the personality of the brand.
+- LIDL blue, red and yellow - the contrasting primary colors symbolize **responsibility**, **dynamism** and **vitality**.
 - In combination, they appear versatile and unexpected.
 
-### Brand-primary (Lidl blue)
+### Brand-primary (LIDL blue)
 
 - It seems interactive.
 - The base color is used for icons & links, to symbolize activeness, to show possible selection or highlights or different conditions.
@@ -55,7 +55,7 @@ Colors help to emphasize and highlight your brand's appearance.
 | dark | HEX: #00438F<br>RGB: 0 / 67 / 143 | base<br>+16% black | ![brand-primary-dark](assets/brand-primary/dark@1x.png) |
 | darker | HEX: #003673<br>RGB: 0 / 54 / 115 | base<br>+32% black | ![brand-primary-darker](assets/brand-primary/darker@1x.png) |
 
-### Danger (Lidl red)
+### Danger (LIDL red)
 
 - It stands for danger and shows an error or a malfunction.
 - In the digital environment, red is only used to a reduced extent as an additional color.
@@ -70,12 +70,12 @@ Colors help to emphasize and highlight your brand's appearance.
 | dark | HEX: #C10811<br>RGB: 193 / 8 / 17 | base<br>+16% black | ![danger-dark](assets/danger/dark@1x.png) |
 | darker | HEX: #9C080E<br>RGB: 156 / 8 / 14 | base<br>+32% black | ![danger-darker](assets/danger/darker@1x.png) |
 
-### Mark (Lidl yellow)
+### Mark (LIDL yellow)
 
 - It isn't used very often.
 - It offers a low contrast ratio to a light background in the digital department.
 - It's mostly used in pricing.
-- To match the definition of the Lidl colors, yellow must be overlaid with Lidl red for the darker colors.
+- To match the definition of the LIDL colors, yellow must be overlaid with LIDL red for the darker colors.
 
 | Name | Values | Concept | Color |
 |---|---|---|---|
@@ -83,8 +83,8 @@ Colors help to emphasize and highlight your brand's appearance.
 | background | HEX: #FFFEF5<br>RGB: 255 / 254 / 245 | base<br>+96% white | ![mark-background](assets/mark/background@1x.png) |
 | lighter | HEX: #FFFDD6<br>RGB: 253 / 253 / 214 | base<br>+84% white | ![mark-lighter](assets/mark/lighter@1x.png) |
 | light | HEX: #FFFAAD<br>RGB: 255 / 250 / 173 | base<br>+68% white | ![mark-light](assets/mark/light@1x.png) |
-| dark | HEX: #FBCB03<br>RGB: 251 / 203 / 3 | base<br>+16% Lidl red | ![mark-dark](assets/mark/dark@1x.png) |
-| darker | HEX: #F7A606<br>RGB: 247 / 166 / 6 | base<br>+32% Lidl red | ![mark-darker](assets/mark/darker@1x.png) |
+| dark | HEX: #FBCB03<br>RGB: 251 / 203 / 3 | base<br>+16% LIDL red | ![mark-dark](assets/mark/dark@1x.png) |
+| darker | HEX: #F7A606<br>RGB: 247 / 166 / 6 | base<br>+32% LIDL red | ![mark-darker](assets/mark/darker@1x.png) |
 
 ---
 
@@ -160,7 +160,7 @@ Colors help to emphasize and highlight your brand's appearance.
 ### Wine
 
 - The wine theme e.g. uses burgundy instead of blue as it's brand-primary color.
-- Use this shades of red if you are designing or layouting a Lidl wine theme.
+- Use this shades of red if you are designing or layouting a LIDL wine theme.
 
 | Name | Values | Concept | Color |
 |---|---|---|---|
@@ -197,7 +197,7 @@ Colors help to emphasize and highlight your brand's appearance.
 
 ## Gradients
 
-- Gradients in the primary colors Lidl blue, red and yellow strengthen the brand personality and create value.
+- Gradients in the primary colors LIDL blue, red and yellow strengthen the brand personality and create value.
 - By aligning light to dark, they also emphasize dynamism and modernity.
 - They underline the optical character of a basic color and create a pleasant haptic feeling and a spatial impression.
 - Gradients should only be used for background areas.

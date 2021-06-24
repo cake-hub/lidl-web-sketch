@@ -32,7 +32,7 @@ The default footer contains the following elements:
 
 | Headline | Main-Navigation | Meta-Navigation |
 |---|---|---|
-|This element is not absolutely necessary for the setup of a footer, unless you want to title or organize your main-navigation categories.|Use it to show a summary of all possible links or menus on a Lidl website (i.e. sitemap, wishlist, shopping cart, account, ...).|For information, such as legal (imprint, terms and conditions, data protection, ...) or contact, which must be placed on a website.|
+|This element is not absolutely necessary for the setup of a footer, unless you want to title or organize your main-navigation categories.|Use it to show a summary of all possible links or menus on a LIDL website (i.e. sitemap, wishlist, shopping cart, account, ...).|For information, such as legal (imprint, terms and conditions, data protection, ...) or contact, which must be placed on a website.|
 
 ---
 

@@ -4,23 +4,23 @@
 
 # Flap
 
-Use this component to aknowledge the user about an additional Lidl Plus offer without the permission to display the explicit Lidl Plus pricebox and coupon.
+Use this component to aknowledge the user about an additional LIDL Plus offer without the permission to display the explicit Lidl Plus pricebox and coupon.
 
-> Use it **only to promote Lidl Plus offers**  and only in combination with a **product tile, teaser or image**.
+> Use it **only to promote LIDL Plus offers**  and only in combination with a **product tile, teaser or image**.
 
 ---
 
 ## Overall styling
 
 - The text style is **small-bold**.
-- The text-color is **gray-darker**.
+- The text-color is **basic-black**.
 - The line height is **100%**.
 - The color of the upper part always is **brand-primary-base**.
 - The color of the lower part always is **mark-base**.
 - The background-shadow is **shadow-default**.
 - The background has **rounded corners of 2px on the lower-left and right side**.
 
-![Lidl Plus: flap](assets/variants/flap@1x.png)
+![LIDL Plus: flap](assets/variants/flap@1x.png)
 
 ---
 
@@ -47,7 +47,7 @@ Use this component to aknowledge the user about an additional Lidl Plus offer wi
 - A flap takes its place at the **upper left corner**.
 - The distance of the flap to the upper left corner is **8px**.
 - **Don't place several flaps** next to each other.
-- The component **can not be displayed** in combination with a Lidl Plus pricebox, ribbon or coupon.
+- The component **can not be displayed** in combination with a LIDL Plus pricebox, ribbon or coupon.
 
 
 ![position](assets/position/flap@1x.png)

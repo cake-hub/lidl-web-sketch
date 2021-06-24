@@ -4,9 +4,9 @@
 
 # Pricebox
 
-The use of the consistent Lidl pricebox is an elementary part of our brand awareness.
+The use of the consistent LIDL pricebox is an elementary part of our brand awareness.
 
-The pricebox contains several fix and optional elements and is available in different color combinations due to different visualizations (standard, offer, lidl-plus, etc.).
+The pricebox contains several obligatory and optional elements and is available in different color combinations due to different visualizations (basic, offer, lidl-plus, etc.).
 
 ---
 
@@ -20,7 +20,7 @@ The pricebox contains several fix and optional elements and is available in diff
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Basic | 1. Prefix <br> 2. Price <br> 3. Asterik <br> 4. Currency |![basic pricebox](assets/forms/basic@1x.png)|
+| Basic | 1. Prefix <br> 2. Price <br> 3. Asterisk <br> 4. Currency |![basic pricebox](assets/forms/basic@1x.png)|
 | Offer | 5. Label <br> 6. Basic pricebox |![offer pricebox](assets/forms/offer@1x.png)|
 | Discount | 7. Discount text <br> 8. Recommended Retail Price (rrp) |![discount pricebox](assets/forms/discount@1x.png)|
 
@@ -35,8 +35,8 @@ The pricebox contains several fix and optional elements and is available in diff
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Basic | text-color: gray-darker <br> background-color: basic-white <br> outline-color: gray-light |![basic pricebox](assets/basic-box/small-no-prefix@1x.png) ![small pricebox with prefix](assets/basic-box/small-with-prefix@1x.png)|
-| Action | text-color: basic-white <br> background-color: danger-base <br> outline-color: danger-base |![action pricebox](assets/basic-box/small-no-prefix-action@1x.png) ![action pricebox with prefix](assets/basic-box/small-with-prefix-action@1x.png) |
+| Basic | text-color: basic-black <br> background-color: basic-white <br> outline-color: gray-light |![basic pricebox](assets/basic-box/small-no-prefix@1x.png) ![small pricebox with prefix](assets/basic-box/small-with-prefix@1x.png)|
+| Action | text-color: basic-white <br> background-color: danger-base|![action pricebox](assets/basic-box/small-no-prefix-action@1x.png) ![action pricebox with prefix](assets/basic-box/small-with-prefix-action@1x.png) |
 
 ## Sizes
 
@@ -52,10 +52,10 @@ The pricebox contains several fix and optional elements and is available in diff
 
 ## Label
 
-- The text-style always is [pricebox-addon](../../General/Typography/Typography.md#pricebox-addon).
+- The text-style always is [pricebox-label](../../General/Typography/Typography.md#pricebox-label).
 - The line-height is set to **default**.
 - Always use the **base-color** as background-color.
-- Combine the standard pricebox with a label to display promotions or discounts.
+- Combine the basic pricebox with a label to display promotions or discounts.
 - Use the label as an add-on for the **offer** pricebox.
 - You can advertise discounts, promotions or offers.
 - Like the pricebox, you can choose between different label colors.
@@ -63,34 +63,34 @@ The pricebox contains several fix and optional elements and is available in diff
 | Types | Attributes | Preview |
 |---|---|---|
 | Action | text-color: basic-white <br> background-color: danger-base | ![action label](assets/elements/labels/action@1x.png) |
-| Offer | text-color: gray-darker <br> background-color: mark-base | ![offer label](assets/elements/labels/offer@1x.png) |
+| Offer | text-color: basic-black <br> background-color: mark-base | ![offer label](assets/elements/labels/offer@1x.png) |
 
 ---
 
 ## Basic quantity
 
-- The text-style always is [small](../../General/Typography/Typography.md#small).
-- The line-height is **120%**.
+- The text-style always is [pricebox-basic-quantity](../../General/Typography/Typography.md#pricebox-basic-quantity).
+- The line-height is **default**.
 - It's used as additional info for the packaging unit, quantity or drained weight.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Basic quantity | text-color: gray-darker | ![basic quantity](assets/elements/basic-quantity@1x.png) |
+| Basic quantity | text-color: basic-black | ![basic quantity](assets/elements/basic-quantity@1x.png) |
 
 ---
 
 ## Discount
 
-- The text-style always is [pricebox-addon](../../General/Typography/Typography.md#pricebox-addon) for the discount text and the recommended retail pice (rrp).
+- The text-style always is [pricebox-addon](../../General/Typography/Typography.md#pricebox-addon) for the discount text and the recommended retail price (rrp).
 - The line-height is set to **default**.
-- If you want to use a discount, it can be placed in the pricebox **standard** (positive) as well as in the pricebox **offer** (negative) - with or without prefix.
-- The strike comes either in **danger-base** or **gray-darker** with a **1px thickness**.
-- There is a positive and negative version matching the underlying standard pricebox.
+- If you want to use a discount, it can be placed in the pricebox **basic** (positive) as well as in the pricebox **offer** (negative) - with or without prefix.
+- The strike comes either in **danger-base** or **basic-black** with a **1px thickness**.
+- There is a positive and negative version matching the underlying basic pricebox.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Positive | text-color: gray-darker <br> strike-color: danger-base | ![discount positive](assets/elements/discount/positive@1x.png) |
-| Negative | text-color: basic-white <br> strike-color: gray-darker | ![discount negative](assets/elements/discount/negative@1x.png) |
+| Positive | text-color: basic-black <br> strike-color: danger-base | ![discount positive](assets/elements/discount/positive@1x.png) |
+| Negative | text-color: basic-white <br> strike-color: basic-black | ![discount negative](assets/elements/discount/negative@1x.png) |
 
 ---
 
@@ -100,13 +100,12 @@ The pricebox contains several fix and optional elements and is available in diff
 - The width of the pricebox depends on the content.
 - The width of the label denpends on the content of the pricebox.
 - The height of the label is fixed for a single-line text.
-- **Exception!** Designers set the margins to 4px due to a Sketch software problem with different text block widths while **the development uses 2px**.
 
 ### Pricebox
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Vertical spacing | LG: 8px <br> MD+SM: 8px<br> XS: 4px | ![pricebox horizontal spacing LG](assets/measurements/basic/horizontal/LG@1x.png) ![pricebox horizontal spacing XS](assets/measurements/basic/horizontal/MD+SM@1x.png) ![pricebox horizontal spacing XS](assets/measurements/basic/horizontal/XS@1x.png) |
+| Vertical spacing | LG: 6px/4px <br> MD+SM: 6px/4px<br> XS: 4px / 2px | ![pricebox horizontal spacing LG](assets/measurements/basic/horizontal/LG@1x.png) ![pricebox horizontal spacing XS](assets/measurements/basic/horizontal/MD+SM@1x.png) ![pricebox horizontal spacing XS](assets/measurements/basic/horizontal/XS@1x.png) |
 | Horizontal spacing | LG: 8px / 4px <br> MD+SM: 8px / 4px<br> XS: 4px / 4px | ![pricebox vertical spacing LG](assets/measurements/basic/vertical/LG@1x.png) ![pricebox vertical spacing LG](assets/measurements/basic/vertical/MD+SM@1x.png) ![pricebox vertical spacing XS](assets/measurements/basic/vertical/XS@1x.png) |
 
 ### Label
@@ -115,7 +114,7 @@ The pricebox contains several fix and optional elements and is available in diff
 |---|---|---|
 | Vertical spacing |  LG: 4px / 12px<br>MD+SM: 4px / 12px<br>XS: 2px / 10px | ![label LG vertical spacing](assets/measurements/label/vertical/LG@1x.png) ![label MD+XS vertical spacing](assets/measurements/label/vertical/MD+SM@1x.png) ![label XS vertical spacing](assets/measurements/label/vertical/XS@1x.png) |
 | Horizontal spacing | LG: 8px<br>MD+SM: 8px<br>XS: 4px | ![label LG horizontal spacing](assets/measurements/label/horizontal/LG@1x.png) ![label MD+SM horizontal spacing](assets/measurements/label/horizontal/MD+SM@1x.png) ![label XS horizontal spacing](assets/measurements/label/horizontal/XS@1x.png) |
-| Height | LG: 30px<br>MD+SM: 28px<br>XS: 24px | ![label LG height](assets/measurements/label/height/LG@1x.png) ![label MD+SM height](assets/measurements/label/height/MD+SM@1x.png) ![label XS height](assets/measurements/label/height/XS@1x.png) |
+| Height | LG: 34px<br>MD+SM: 32px<br>XS: 26px | ![label LG height](assets/measurements/label/height/LG@1x.png) ![label MD+SM height](assets/measurements/label/height/MD+SM@1x.png) ![label XS height](assets/measurements/label/height/XS@1x.png) |
 
 ### Discount
 
@@ -133,7 +132,7 @@ The pricebox contains several fix and optional elements and is available in diff
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Offset | LG: 8px <br> MD+SM: 8px <br> XS: 4px | ![label position LG](assets/position/label/LG@1x.png) ![label position MD+SM](assets/position/label/MD+SM@1x.png) ![label position XS](assets/position/label/XS@1x.png) ||
+| Offset | LG: 8px top: 8px <br> MD+SM: 8px top: 8px <br> XS: 4px top: 8px | ![label position LG](assets/position/label/LG@1x.png) ![label position MD+SM](assets/position/label/MD+SM@1x.png) ![label position XS](assets/position/label/XS@1x.png) ||
 
 
 ### Basic quantity
@@ -148,13 +147,12 @@ The pricebox contains several fix and optional elements and is available in diff
 
 ## Combinations
 
-- There are **different combinations** of priceboxes and labels in the Lidl universe.
-- They are called "themes".
+- There are **three different combinations** of priceboxes and labels in the LIDL universe.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Offer #1 | label: action <br> pricebox: standard | ![offer #1](assets/combinations/offer-1@1x.png) |
-| Offer #2 | label: offer <br> pricebox: standard | ![offer #2](assets/combinations/offer-2@1x.png) |
+| Offer #1 | label: action <br> pricebox: basic | ![offer #1](assets/combinations/offer-1@1x.png) |
+| Offer #2 | label: offer <br> pricebox: basic | ![offer #2](assets/combinations/offer-2@1x.png) |
 | Special offer | label: offer <br> pricebox: action | ![special offer](assets/combinations/special-offer@1x.png) |
 
 ---
