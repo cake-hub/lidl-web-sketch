@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-# Theme Slider
+# Theme slider
 
 The theme slider is a navigation bar for special offers and topics that should be displayed prominently to the user with pictures.
 
@@ -44,7 +44,7 @@ All offers are listed horizontally next to each other. Sliding of offers is a ch
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - The total height and width of the component is based on the size of the individual elements and their corresponding spacings.
 - The width also depends on how many elements are displayed and is always a multiple of 8.
@@ -72,7 +72,7 @@ All offers are listed horizontally next to each other. Sliding of offers is a ch
 ## What can be modified?
 
 - Override text and image.
-- Modify theme sliders to your project needs by deleting single symbols (i.e. like the tab or slider button symbol)
+- Modify theme sliders to your project needs by deleting single symbols (i.e. like the tab or slider button symbol).
 - Modify theme sliders to your project needs by shortening the complete symbol but please stick to the rule of 8 (i.e. theme slider with 6 items to a width of 1016px in LG).
 
 

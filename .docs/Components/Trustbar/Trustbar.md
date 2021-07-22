@@ -29,7 +29,7 @@ The trustbar is a possibility to show unique selling propositions, services or o
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

@@ -49,7 +49,7 @@ It should give the user information about the following section through a title,
 
 ---
 
-### Spacing & Measurements
+## Spacing & measurements
 
 #### Spacing
 

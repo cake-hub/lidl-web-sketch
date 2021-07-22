@@ -102,15 +102,14 @@ Basically it is positioned in a context with a text.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 ### Standard
 
 | Types | Attributes | Preview |
 |---|---|---|
-| LG horizontal spacing for **basic**, **large** and **small** badges | LG padding: 16px | ![horizontal-spacing](assets/measurements/standard/lg-horizontal-spacing@1x.png) |
-| MD-XS horizontal spacing for **basic** and **large** badges| MD-XS padding: 16px | ![horizontal-spacing](assets/measurements/standard/md-xs-horizontal-spacing-16@1x.png) |
-| MD-XS horizontal spacing for **small** badges | MD-XS padding: 12px | ![horizontal-spacing](assets/measurements/standard/md-xs-horizontal-spacing-12@1x.png) |
+| LG horizontal spacing | LG padding: 16px | ![horizontal-spacing](assets/measurements/standard/lg-horizontal-spacing@1x.png) |
+| MD-XS horizontal spacing | MD-XS padding: 16px | ![horizontal-spacing](assets/measurements/standard/md-xs-horizontal-spacing-16@1x.png) |
 | Vertical spacing for all badges on all breakpoints (LG-XS) | LG-XS padding: 4px | ![vertical-spacing](assets/measurements/standard/vertical-spacing@1x.png) |
 | Distances | margin: 8px | ![distance](assets/measurements/standard/distance@1x.png) |
 

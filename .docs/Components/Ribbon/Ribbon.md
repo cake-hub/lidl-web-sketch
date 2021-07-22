@@ -53,7 +53,7 @@ Basically it is positioned in a context with a product tile, teaser, or image.
 | Size | triangle: 8x8px | ![Size: triangle (LG)](assets/measurements/LG/size@1x.png) |
 | Height | ribbon: 32px<br>with triangle: 40px | ![Height (LG)](assets/measurements/LG/height@1x.png) |
 
-### Tablet & Smartphone (MD-XS)
+### Tablet & smartphone (MD-XS)
 
 | Types | Attributes | Preview |
 |---|---|---|

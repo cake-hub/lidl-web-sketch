@@ -44,7 +44,7 @@ Working with CAKE brings fixed spaces for layouts.
 - The distance between components should follow the rule of 8.
 - Margins or paddings are an increment of 8.
 
-| Horizontal & Vertical | Vertical |
+| Horizontal & vertical | Vertical |
 |---|---|
 | ![Example: Spaces](assets/example-1@1x.png) | ![Example: Spaces](assets/example-2@1x.png) |
 

@@ -16,6 +16,7 @@ They support the understanding of an information or function. Symbols are easier
 - There’s also a **positive** and **negative** version to layout on a light or dark background.
 - Icons have an original size of **60x60px**.
 - The size has to follow the **rule of 8** (8, 16, 24, 32, …).
+- In some cases 8x8px icons can have **suboptimal visibility** because of the thineness of the line, and in such cases please contact [CAKE team](mailto:cake@lidl.com) for discussion about possible solutions.
 
 ---
 
@@ -286,11 +287,17 @@ They support the understanding of an information or function. Symbols are easier
 | Name | Icon | Purpose |
 |---|---|---|
 | bad | ![bad](assets/smiley/bad@1x.png) |  |
+| ♥ bad-solid | ![bad](assets/smiley/bad-solid@1x.png) |  |
 | best | ![arrow-left](assets/smiley/best@1x.png) | happy, awesome |
+| ♥ best-solid | ![arrow-left](assets/smiley/best-solid@1x.png) | happy, awesome |
 | better | ![arrow-right](assets/smiley/better@1x.png) | smile |
+| ♥ better-solid | ![arrow-right](assets/smiley/better-solid@1x.png) | smile |
 | good | ![arrow-up](assets/smiley/good@1x.png) | glad |
+| ♥ good-solid | ![arrow-up](assets/smiley/good-solid@1x.png) | glad |
 | neutral | ![cross](assets/smiley/neutral@1x.png) |  |
+| ♥ neutral-solid | ![cross](assets/smiley/neutral-solid@1x.png) |  |
 | worst | ![undo](assets/smiley/worst@1x.png) | sad |
+| ♥ worst-solid | ![undo](assets/smiley/worst-solid@1x.png) | sad |
 
 ---
 
@@ -340,7 +347,7 @@ They support the understanding of an information or function. Symbols are easier
 | Name | Icon | Purpose |
 |---|---|---|
 | bicycle | ![bicycle](assets/transport_logistic/bicycle@1x.png) |  |
-| ♥ box | ![box](assets/transport_logistic/box@1x.png) | package, delivery |
+| box | ![box](assets/transport_logistic/box@1x.png) | package, delivery |
 | box-coins-return | ![box-coins-return](assets/transport_logistic/box-coins-return@1x.png) | money back  |
 | box-multiple| ![box-multiple](assets/transport_logistic/box-multiple@1x.png) | send multiple packages |
 | box-open | ![box-open](assets/transport_logistic/box-open@1x.png) |  |
@@ -359,4 +366,4 @@ They support the understanding of an information or function. Symbols are easier
 
 - The LIDL universe contains plenty of other icons that are not available in our design system and frontend framework.
 - The naming of SVG files also differs from the LIDL standard because of the general usage of icons in our product.
-- For more icons and further details log on to [brand.lidl](https://www.brand.lidl/site/login)
+- For more icons and further details log on to [brand.lidl](https://www.brand.lidl/site/login).

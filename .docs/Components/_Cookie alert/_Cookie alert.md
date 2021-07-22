@@ -3,7 +3,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 </AlertInfo>
 
 
-# Cookie Alert
+# Cookie alert
 
 Visitors of websites have to be informed about the legal requirements or privacy policy.
 
@@ -18,7 +18,7 @@ Visitors of websites have to be informed about the legal requirements or privacy
 
 ## Overall styling
 
-- Text-style is **small**.
+- Text-style is [small](../../../../Web/Design/General/Typography/Typography.md#small).
 - Text-color is **brand-primary-base**.
 - Background-color is **brand-primary-background**.
 - The button comes in the **positive-secondary** style.
@@ -32,12 +32,12 @@ Visitors of websites have to be informed about the legal requirements or privacy
 ## Position
 
 | LG & MD | SM & XS |
-|---|---|---|---|
+|---|---|
 | <ul><li>The cookie alert is placed on top of the website.</li><li> Always over the header in desktop and tablet landscape mode.</li></ul> | <ul><li>The cookie alarm is displayed at the bottom of the screen.</li><li>The content can still be scrolled when the alert is visible.</li></ul> |
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

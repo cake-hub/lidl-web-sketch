@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-# Product Tile
+# Product tile
 
 Each product is presented with the product tile.
 
@@ -40,7 +40,7 @@ The product tile is a basic component which can be combined with other component
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

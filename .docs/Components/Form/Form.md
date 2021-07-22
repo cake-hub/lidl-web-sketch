@@ -126,7 +126,7 @@ They are an important element in online shops, so it is even more essential that
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Type | Attributes | Preview
 |---|---|---|

@@ -1,5 +1,16 @@
 # Change log
 
+## [8.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.1.0) & [8.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.1.0) - 2021-07-22
+
+### Changed
+
+* `Doc`: "Color" | Clean up the documentation for the right structure and sentence case
+
+### Added
+
+* `Doc`: "Color" | Added a note to explain why info has the same blue as brand-primary color
+
+
 ## [7.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v7.0.0) & [7.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v7.0.0) - 2021-04-19
 
 ### Changed

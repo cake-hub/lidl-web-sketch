@@ -2,7 +2,7 @@
 It is mandatory to maintain the appearance and behavior of these components.
 </AlertWarning>
 
-# Grid System
+# Grid system
 
 A grid system can be used to align and size objects within a given format.
 
@@ -18,7 +18,7 @@ A grid system can be used to align and size objects within a given format.
 ---
 
 |  1. Columns | 2. Gutters | 3. Margins |
-|---|---|---|---|
+|---|---|---|
 | Content is placed in the areas of the screen that contain columns.<br> The number of displayed columns is determined by the breakpoint that is choosen. | Gutters are the spaces between columns.<br> They help separate content. | Margins are the space between content and the left and right edges of the screen. |
 
 ![Grid Setup](assets/grid-system-setup@1x.png)

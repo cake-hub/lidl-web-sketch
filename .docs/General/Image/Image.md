@@ -26,18 +26,18 @@ These elements are used as placeholders in symbols or on mockups.
         <tr>
             <td>Free ratio</td>
             <td>
-                * The image scales as large as possible
-                * Use this format for almost all UX elements or background images
-                * Height and width can be random but must always be divisible by 8
+                * The image scales as large as possible.
+                * Use this format for almost all UX elements or background images.
+                * Height and width can be random but must always be divisible by 8.
             </td>
             <td>![logo: image free ratio](assets/free-ratio@1x.png)</td>
         </tr>
         <tr>
             <td>4:3 ratio</td>
             <td>
-                * Can only be used in a ratio of 4:3
-                * Mainly used for product images or teasers
-                * The fixed aspect ratio also ensures that the images look
+                * Can only be used in a ratio of 4:3.
+                * Mainly used for product images or teasers.
+                * The fixed aspect ratio also ensures that the images look.
                 * the same everywhere and, for example, are not cropped.
             </td>
             <td>![logo: image 4:3](assets/4-3-ratio@1x.png)</td>

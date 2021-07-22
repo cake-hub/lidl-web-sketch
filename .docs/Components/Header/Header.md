@@ -30,7 +30,7 @@ The appearance symbolizes customers that they are on a LIDL page now. Its strong
 - The header comes with a background-color in **basic-white**.
 - It uses the **shadow-default**.
 
-### Desktop & Tablet landscape (LG & MD)
+### Desktop & tablet landscape (LG & MD)
 
 ![Complete: LG+MD](assets/complete/LG+MD@1x.png)
 
@@ -38,7 +38,7 @@ The appearance symbolizes customers that they are on a LIDL page now. Its strong
 |---|---|---|---|
 | 1. Brand<br>2. Brand-navigation<br>3. Language<br>11. Divider | 4. Logo<br>5. Brand-Claim<br>6. User-navigation| 7. Main-navigation<br>8. Slider button<br>11. Divider | 9. Sub-navigation<br>10. Slider button |
 
-### Tablet portrait & Smartphone (SM & XS)
+### Tablet portrait & smartphone (SM & XS)
 
 ![Complete SM+XS](assets/complete/SM+XS@1x.png)
 
@@ -48,13 +48,13 @@ The appearance symbolizes customers that they are on a LIDL page now. Its strong
 
 ---
 
-## Main- & Sub-navigation
+## Main- & sub-navigation
 
 - There are different types of use for each section of the navigation.
 - Use the main-navigation for services that LIDL has to offer in your country (e.g. branch or special offers, online shop, travel, recipes …).
 - Use the sub-navigation if a service has subitems (e.g. online shop with subcategories such as bicycle, fashion, household & kitchen …).
 
-### Desktop & Tablet landscape (LG & MD)
+### Desktop & tablet landscape (LG & MD)
 
 - The text-style for main-navigation is [large](../../General/Typography/Typography.md#large).
 - The text-style for sub-navigation is [basic](../../General/Typography/Typography.md#basic).
@@ -70,7 +70,7 @@ The appearance symbolizes customers that they are on a LIDL page now. Its strong
 | Hover / focus | text-color: gray-base<br>indicator: gray-base | ![main: LG/MD hover/focus](assets/main+sub/LG+MD/hover-focus@1x.png) |
 | Active | text-color: brand-primary-base<br>indicator: brand-primary-base | ![main: LG/MD active](assets/main+sub/LG+MD/active@1x.png) |
 
-### Tablet portrait & Smartphone (SM & XS)
+### Tablet portrait & smartphone (SM & XS)
 
 - The text-style for main-navigation is [large](../../General/Typography/Typography.md#large).
 - The text-style for sub-navigation is [basic](../../General/Typography/Typography.md#basic), except the active state which is analog to the main-navigation.
@@ -102,7 +102,7 @@ The appearance symbolizes customers that they are on a LIDL page now. Its strong
 - Please ensure that the distance between the elements (icon and text) always stays the same.
 - It uses the [badge-addon](../Badge/Badge.md#addon) to display a counter (e.g. how many products are in the shopping cart or wishlist).
 
-### Desktop & Tablet landscape (LG & MD)
+### Desktop & tablet landscape (LG & MD)
 
 - The text-style is [small](../../General/Typography/Typography.md#small).
 - The line-height has **120%**.
@@ -113,7 +113,7 @@ The appearance symbolizes customers that they are on a LIDL page now. Its strong
 | Default / active| text-color: gray-darker<br>icon-color: gray-darker | ![user: LG default](assets/user/LG+MD/default-active@1x.png) |
 | Hover / focus | text-color: brand-primary-base<br>icon-color: brand-primary-base | ![user: LG hover/focus](assets/user/LG+MD/hover@1x.png) |
 
-### Tablet portrait & Smartphone (SM & XS)
+### Tablet portrait & smartphone (SM & XS)
 
 - It only uses an icon to symbolize a user-navigation category.
 - The background-color is always **basic-white**.
@@ -196,7 +196,7 @@ The appearance symbolizes customers that they are on a LIDL page now. Its strong
 
 ---
 
-## Brand-Claim
+## Brand-claim
 
 - This element only exists in desktop and tablet (landscape).
 
@@ -206,7 +206,7 @@ The appearance symbolizes customers that they are on a LIDL page now. Its strong
 
 ---
 
-## Divider, Overlay & Flyout
+## Divider, overlay & flyout
 
 - Dividers are used in every breakpoint and therefore have different widths.
 - The overlay and flyout component only exists in tablet (portrait) and smartphone devices.
@@ -219,12 +219,12 @@ The appearance symbolizes customers that they are on a LIDL page now. Its strong
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - This section shows the different spacings of the desktop and mobile elements included in the header.
 
 
-### Desktop & Tablet landscape (LG & MD)
+### Desktop & tablet landscape (LG & MD)
 
 - All the spacing for these breakpoints are identical.
 - Only the **height** and **width** of the used components are different.
@@ -253,7 +253,7 @@ The appearance symbolizes customers that they are on a LIDL page now. Its strong
 | Brand-navigation | padding: 8px<br>height: 32px / 24px  | ![brand-nav: LG](assets/measurements/LG/brand-nav@1x.png)![brand-nav: MD](assets/measurements/MD/brand-nav@1x.png)|
 | Language | padding: 16px<br>height: 32px / 24px | ![language: LG](assets/measurements/LG/language@1x.png)![language: MD](assets/measurements/MD/language@1x.png) |
 
-### Tablet portrait & Smartphone (SM & XS)
+### Tablet portrait & smartphone (SM & XS)
 
 #### Spacing
 

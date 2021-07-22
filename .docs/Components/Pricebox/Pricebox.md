@@ -94,7 +94,7 @@ The pricebox contains several obligatory and optional elements and is available 
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - The height of the pricebox depends on the content and the additional components shown.
 - The width of the pricebox depends on the content.

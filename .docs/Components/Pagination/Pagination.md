@@ -39,7 +39,7 @@ It allows the user to jump to the respective pages by browsing.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 ### Spacing
 

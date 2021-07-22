@@ -36,7 +36,7 @@ The default footer contains the following elements:
 
 ---
 
-## Overall Styling
+## Overall styling
 
 - The text-color always is **basic-white**.
 - The background-color is always **gray-base**.
@@ -49,7 +49,7 @@ The default footer contains the following elements:
 |Main-Navigation|text-style: basic|![main-nav default](assets/elements/main-navigation/LG-XS/default@1x.png)|
 |Meta-Navigation|text-style: basic|![meta-nav default](assets/elements/meta-navigation/LG-XS/default@1x.png)|
 
-## Status Styling
+## Status styling
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -59,7 +59,7 @@ The default footer contains the following elements:
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 ### Overall spaces
 

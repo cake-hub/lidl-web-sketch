@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-# Cookie Alert
+# Cookie alert
 
 Visitors of websites are informed about the legal requirements or privacy policy.
 
@@ -48,7 +48,7 @@ They have to agree to the cookie settings of websites to visit and interact with
 ## Overall styling
 
 - The headline has the text-style [headline 5](../../General/Typography/Typography.md#headlines-headline-level-5).
-- The text, link and checkboxes have the text-style [small](../../General/Typography/Typography.md#small)
+- The text, link and checkboxes have the text-style [small](../../General/Typography/Typography.md#small).
 - The line-height is set to **default**.
 - Text-color is **gray-darker**.
 - The links (with icon) follow the rules of our [link description](../../General/Link/Link.md).
@@ -64,7 +64,7 @@ They have to agree to the cookie settings of websites to visit and interact with
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - The overall padding is **16px**.
 

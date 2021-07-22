@@ -34,7 +34,7 @@ Colors help to emphasize and highlight your brand's appearance.
 
 ---
 
-## Brand Colors
+## Brand colors
 
 - The LIDL brand colors communicate the personality of the brand.
 - LIDL blue, red and yellow - the contrasting primary colors symbolize **responsibility**, **dynamism** and **vitality**.
@@ -96,6 +96,7 @@ Colors help to emphasize and highlight your brand's appearance.
 
 - The info color corresponds to the blue of our brand-primary.
 - You will find info in **alerts**, **badges**, **ribbons** or **pricebox highlight labels**.
+- Blue is the best color to demonstrate an "info" from UX point of view, in our case and in online studies. Part of the LIDL brand colors is "blue" and also the "brand-primary-color" on a digital device. It didn't make sense to create a new color "blue" for an "info" purpose. That's why the "brand-primary-color" for LIDL matches the "info" color. But if, for example, the "brand-primary-color" for LIDL will change, only the components using the "brand-primary-color" will change. This has the benefit that all info elements will stay "blue".
 
 | Name | Values | Concept | Color |
 |---|---|---|---|
@@ -153,7 +154,7 @@ Colors help to emphasize and highlight your brand's appearance.
 
 ---
 
-## Theme Colors
+## Theme colors
 
 - The brand-primary color can be changed according to the desired project color.
 
@@ -208,7 +209,7 @@ Colors help to emphasize and highlight your brand's appearance.
 
 ---
 
-### Workflow in Sketch
+### Our workflow in Sketch
 
 - A color is the smallest ingredient in the library. It is integrated as a symbol in many other ingredients, doughs and pieces.
 - If you want to change the color or turn it off, look into its symbols „Overrides“-function.

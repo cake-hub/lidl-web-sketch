@@ -12,7 +12,7 @@ Use this component if there is no possibility to display a specific product pric
 
 ## Overall styling
 
-- The text-style is **pricebox-small** and **small**.
+- The text-style is [pricebox-small](../../../../Web/Design/General/Typography/Typography.md#pricebox-small) and [small](../../../../Web/Design/General/Typography/Typography.md#small).
 - The text-color is **basic-white** and **basic-black**.
 - The color of the upper part always is **brand-primary-base**.
 - The color of the lower part always is **mark-base**.

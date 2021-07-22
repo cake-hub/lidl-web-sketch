@@ -1,5 +1,17 @@
 # Change log
 
+## [8.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.1.0) & [8.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.1.0) - 2021-07-22
+
+### Changed
+
+* `Doc`: "Icon" | Clean up the documentation for the right structure and sentence case
+
+### Added
+
+* `Sketch`, `Doc`: "Icon" | Added solid "Smiley" icons
+* `Doc`: "Icon" | Added information about 8x8px icons
+
+
 ## [7.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v7.1.0) & [7.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v7.1.0) - 2021-06-11
 
 ### Changed

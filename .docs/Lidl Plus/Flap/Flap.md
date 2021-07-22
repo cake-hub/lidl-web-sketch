@@ -12,9 +12,9 @@ Use this component to aknowledge the user about an additional LIDL Plus offer wi
 
 ## Overall styling
 
-- The text style is **small-bold**.
-- The text-color is **basic-black**.
+- The text style is [small-bold](../../../../Web/Design/General/Typography/Typography.md#small-bold).
 - The line height is **100%**.
+- The text-color is **basic-black**.
 - The color of the upper part always is **brand-primary-base**.
 - The color of the lower part always is **mark-base**.
 - The background-shadow is **shadow-default**.

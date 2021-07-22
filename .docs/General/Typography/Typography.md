@@ -42,7 +42,7 @@ It helps you to present your design and content as clearly and effectively as po
 | LG | 14px | ![small regular (LG)](assets/small/regular/LG@1x.png) |
 | MD-XS | 12px | ![small regular (MD-XS)](assets/small/regular/MD-XS@1x.png) |
 
-## Small Bold
+## Small bold
 
 - The typeface is always **semibold**.
 - The line-height is **140%**.
@@ -66,7 +66,7 @@ It helps you to present your design and content as clearly and effectively as po
 | LG | 18px | ![basic regular (LG)](assets/basic/regular/LG@1x.png) |
 | MD-XS | 16px | ![basic regular (MD-XS)](assets/basic/regular/MD-XS@1x.png) |
 
-## Basic Bold
+## Basic bold
 
 - The typeface is always **semibold**.
 - The line-height is **140%**.
@@ -90,7 +90,7 @@ It helps you to present your design and content as clearly and effectively as po
 | LG | 22px |![large regular (LG)](assets/large/regular/LG@1x.png) |
 | MD-XS | 20px | ![large regular (MD-XS)](assets/large/regular/MD-XS@1x.png) |
 
-## Large Bold
+## Large bold
 
 - The typeface is always **semibold**.
 - The line-height is **140%**.
@@ -103,7 +103,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ---
 
-## Brand Claim
+## Brand claim
 
 - Brand Claim is the company's customer approach.
 - It is positioned next to the LIDL logo in the header component.
@@ -305,12 +305,12 @@ It helps you to present your design and content as clearly and effectively as po
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Type | Attributes | Preview |
 |---|---|---|
-| Vertical spacing | 32px between **headline (Level 1)** and other headlines or body text<br><br>16px between **headline (Level 2)** and other headlines or body text<br><br>8px between **headline (Level 3)** and other headlines or body text<br><br>32px between body text and body text or headlines<br><br>8px between **headline (Level 4)** and other headlines or body text<br><br>8px between **headline (Level 5)** and other headlines or body text | ![spacing: forms](assets/measurements/body@1x.png) |
-| Vertical spacing | 16px between **section headline (Level 1)** and body text<br><br>32px between body text and body text or headlines | ![spacing: forms](assets/measurements/section@1x.png) |
+| Vertical spacing | 32px between **headline (Level 1)** and other headlines or body text.<br><br>16px between **headline (Level 2)** and other headlines or body text.<br><br>8px between **headline (Level 3)** and other headlines or body text.<br><br>32px between body text and body text or headlines.<br><br>8px between **headline (Level 4)** and other headlines or body text.<br><br>8px between **headline (Level 5)** and other headlines or body text. | ![spacing: forms](assets/measurements/body@1x.png) |
+| Vertical spacing | 16px between **section headline (Level 1)** and body text.<br><br>32px between body text and body text or headlines. | ![spacing: forms](assets/measurements/section@1x.png) |
 
 ---
 

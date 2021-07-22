@@ -123,11 +123,11 @@ The actions can be separated into two buttons. The design of two different butt
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Type | Attributes | Preview |
 |---|---|---|
-| Horizontal | padding-left: 16px<br>padding-right: 16px<br>margin: 8px | ![button: padding](assets/measurements/horizontal-padding@1x.png) |
+| Horizontal | Buttons can be variable in width but icon and text are always centered and have 16px minimum spacing left and right. Spacing between icon and button text is always 8px. | ![button: padding](assets/measurements/horizontal-padding@1x.png) |
 | Vertical | text is _vertically centered_ | ![button: padding](assets/measurements/vertical-padding@1x.png) |
 | Height | LG: 48px<br>MD-XS: 40px | ![button: height](assets/measurements/height@1x.png) |
 | Distance  | 16px between two buttons | ![button: padding](assets/measurements/distance@1x.png) |

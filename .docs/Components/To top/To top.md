@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-# To Top
+# To top
 
 Use this "button" to allow the customer to jump directly to the top of the page.
 

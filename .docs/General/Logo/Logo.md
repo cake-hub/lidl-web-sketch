@@ -23,11 +23,11 @@ The logo gives a visual representation of your company brand.
 
 ![logo: rgb](assets/logo_RGB@1x.png)
 
-## Protection Zone
+## Protection zone
 
-- In order to guarantee the integrity of the LIDL logo, we establish a protective zone that is free of visual disturbances and distractions
-- No other graphic or typographic elements should be placed in this protection zone
-- Even image elements in the background should be reassured
-- The protection zone is 1/4 of the logo width<br>
+- In order to guarantee the integrity of the LIDL logo, we establish a protective zone that is free of visual disturbances and distractions.
+- No other graphic or typographic elements should be placed in this protection zone.
+- Even image elements in the background should be reassured.
+- The protection zone is 1/4 of the logo width.<br>
 
 ![logo: protection zone](assets/protection_zone@1x.png)

@@ -80,7 +80,7 @@ Some alerts use links to direct the user to another page.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -92,7 +92,7 @@ Some alerts use links to direct the user to another page.
 
 ## Specials
 
-- Alerts can also be used in their brand-primary color besides or with just a different meaning to the „info“-alert (i.e. „brand-primary“ or „wine“)
+- Alerts can also be used in their brand-primary color besides or with just a different meaning to the „info“-alert (i.e. „brand-primary“ or „wine“).
 
 ---
 

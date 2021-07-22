@@ -19,7 +19,6 @@ In our case, only rows are separated by a horizontal divider. The use of backgro
 - Column header dividers also have gray-lighter as color but a **2px thickness**.
 - The background-color for a table with background **always is gray-lightest**.
 
-
 ---
 
 ## General
@@ -53,7 +52,7 @@ There are different kinds of tables.
 
 ---
 
-## Special behaviour
+## Special behavior
 
 - The table can be scrolled **vertically** and **horizontally** for tables that are wider than the viewport.
 - A **zoom function** can be added for smaller devices.

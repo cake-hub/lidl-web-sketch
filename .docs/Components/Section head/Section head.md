@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-# Section Head
+# Section head
 
 Use section headlines to structure the page content.
 
@@ -27,7 +27,7 @@ This allows you to structure sections or separate them more clearly from each ot
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|
