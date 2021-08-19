@@ -240,11 +240,11 @@ It helps you to present your design and content as clearly and effectively as po
 
 ## Pricebox
 
-- The typeface is always **bold**.
 - The line-height is **100%**.
 
 ### Addon
 
+- The typeface is **bold**.
 - These font sizes are only used for additional text of our pricebox, i.e. prefix, currency, recommended retail price (rrp).
 
 | Breakpoint | Font size | Preview |
@@ -254,6 +254,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ### Basic quantity
 
+- The typeface is **regular**.
 - These font sizes are only used for the basic quantity text of our pricebox.
 - The line-height is **120%**.
 
@@ -264,6 +265,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ### Small
 
+- The typeface is **bold**.
 - These font sizes are for a small pricebox which is used on our product tile on our search result page.
 
 | Breakpoint | Font size | Preview |
@@ -274,6 +276,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ### Label
 
+- The typeface is **bold**.
 - These font sizes are for all priceboxes which use a label.
 
 | Breakpoint | Font size | Preview |
@@ -284,6 +287,7 @@ It helps you to present your design and content as clearly and effectively as po
 
 ### Medium
 
+- The typeface is **bold**.
 - These font sizes are for a medium pricebox which is used on our product detail page.
 
 | Breakpoint | Font size | Preview |

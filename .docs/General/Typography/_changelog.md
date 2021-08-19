@@ -1,6 +1,11 @@
 # Change log
 
-# Change log
+## [8.2.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.2.0) & [8.2.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.2.0) - 2021-08-19
+
+### Added
+
+* `Doc`: "Typography" | Added font-weight to all the pricebox text styles
+
 
 ## [8.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.1.0) & [8.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.1.0) - 2021-07-22
 
