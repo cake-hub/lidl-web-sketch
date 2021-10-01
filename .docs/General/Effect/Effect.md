@@ -71,3 +71,4 @@ The browser focus shows the element what is currently focused.
 |---|---|
 | **Global setup**<br>outline: total 3px (outside)<br>opacity: 50% <br>radius: 2px<br>color composition: <br>1. brand-primary-base 2px <br>2. basic-white 1px | ![browser focus default](assets/browser-focus-default@1x.png) |
 | **Exception!** <br> The error state has the <br>color composition: <br>1. danger-base 2px<br>2. color: basic-white 1px| ![browser focus error](assets/browser-focus-error@1x.png) |
+| **Example**<br> | ![browser focus example](assets/browser-focus-example@1x.png) |

@@ -23,7 +23,7 @@ It mainly appears in a website tab or bookmark. It is an important element as it
 
 | Version | Preview |
 |---|---|
-| RBG | ![Favicon](assets/favicon@1x.png) |
+| RGB | ![Favicon](assets/favicon@1x.png) |
 
 ---
 

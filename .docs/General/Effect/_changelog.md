@@ -1,5 +1,12 @@
 # Change log
 
+## [8.3.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.3.0) & [8.3.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.3.0) - 2021-10-01
+
+### Fixed
+
+* `Doc`: "Effect" | Fixed explanation of the browser focus setup
+
+
 ## [7.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v7.1.0) & [7.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v7.1.0) - 2021-06-11
 
 ### Added

@@ -1,5 +1,11 @@
 # Change log
 
+## [8.3.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.3.0) & [8.3.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.3.0) - 2021-10-01
+
+### Fixed
+
+* `Sketch`: "Header" | For MD a smart layout fix for main-nav title and sub-nav title
+
 ## [8.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.1.0) & [8.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.1.0) - 2021-07-22
 
 ### Changed
