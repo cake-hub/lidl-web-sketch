@@ -6,40 +6,61 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 Indicate the current page’s location within a navigational hierarchy.
 
-It is positioned near the header and is used primarily as a visual display to the customer, but is still interactive.
+It is positioned near the header and displays navigational hierarchy to the customer, but is still interactive.
 
 ---
 
 ## Recommendations
 
-- Don't show any breadcrumb on a tablet (portrait) and smartphone device.
+- Based on the [Baymard studies](#references) we follow these recommendations:
+  - "Display only the parent category or subcategory to which the current product belongs."
+  - "Avoid overcategorization."
+  - "Don't wrap breadcrumbs to a second line."
+- If the category page is the starting page then no breadcrumbs are shown.
 
 ---
 
 ## Overall styling
 
-- The text-style always is [small](../../General/Typography/Typography.md#small).
+- The text-style is always [link small](../../General/Link/Link.md#text-styles-small).
 - The line-height is set to **default**.
+- The font size changes between LG and MD-XS breakpoint.
 - The hover state changes the **mouse cursor into a link cursor (pointer).**
-- Always use **house.svg** as home-icon and **arrow-right.svg** as seperator.
+- On LG  **house.svg** is used as home-icon.
+- The **pipe symbol** is used for separation of breadcrumbs.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Default / hover / active | text-color: gray-darker <br> icon-color: gray-darker | ![Breadcrumb complete](assets/complete@1x.png) |
+| Default / visited |  text-color: brand-primary-base<br>text-decoration: underline | ![Breadcrumb default-visited](assets/default-visited@1x.png) |
+| Hover / focus |  text-color: brand-primary-darker<br>text-decoration: underline | ![Breadcrumb hover-focus](assets/hover-focus@1x.png) |
+| Active / pressed |  text-color: brand-primary-darker | ![Breadcrumb active-pressed](assets/active-pressed@1x.png) |
 
 ---
 
 ## Spacing & measurements
 
-- If the breadcrumb is larger than the viewport it breaks in a second line.
-- Normally, there are not more than 5 levels shown.
+- The spacings are valid for all breakpoints (LG-XS).
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Vertical spacing | margin: 4px|  ![Breadcrumb: horizontal-spacing](assets/measurements/vertical-spacing@1x.png) |
-| Horizontal spacing | padding: 8px | ![Breadcrumb: vertical-spacing](assets/measurements/horizontal-spacing@1x.png) |
-| Size | home: 16x16px <br> seperator: 8x8px | ![Breadcrumb: icon-size](assets/measurements/size/icon@1x.png)<br> ![Breadcrumb: seperator-size](assets/measurements/size/seperator@1x.png)|
-| Width | result of the addition of all symbols | ![Breadcrumb: complete](assets/complete@1x.png) |
+| Horizontal spacing | padding: 8px | ![Breadcrumb: horizontal-spacing](assets/measurements/horizontal-spacing@1x.png)<br>![Breadcrumb: seperator-size](assets/measurements/size/seperator@1x.png) |
+| Vertical spacing | padding: 16px | ![Breadcrumb: vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
+| Size | home icon: 16x16px | ![Breadcrumb: icon-size](assets/measurements/size/icon@1x.png)|
+| Width | dependent on the text length of all breadcrumb levels | ![Breadcrumb: complete](assets/measurements/complete@1x.png) |
+
+---
+
+## Behavior
+
+- Breadcrumbs show only the categories/subcategories that lead to the current page, while the title of the current page (for instance article name) is never shown in the breadcrumbs.
+
+### LG
+
+If the horizontal space doesn't allow it, the last breadcrumb level is shortened by using an ellipsis without any blank space in-between. Clicking on the home icon leads user to the startpage. <br> ![Breadcrumb: behaviour ellipsis](assets/behaviour-ellipsis@1x.png)
+
+### MD-XS
+
+Due to the lack of space on smaller screens breadcrumbs show only the ellipsis followed by the last subcategory/category to which the current page belongs to. Tapping on the ellipsis leads the user to the topmost parent category. <br> ![Breadcrumb: behaviour](assets/behaviour@1x.png)
 
 ---
 
@@ -50,6 +71,13 @@ It is positioned near the header and is used primarily as a visual display to th
 
 ### Our workflow in Sketch
 
-- The breadcrumb is made up of the individual symbols from the CAKE UI Core and the CAKE UI Kit.
-- They add up seamlessly to each other.
+- The text-styles can be selected in the "Overrides"-function.
 - The text can be changed using the "Overrides"-function.
+
+---
+
+## References
+
+> UID-800 // Mobile Breadcrumb for SEO<br>
+[Nielsen Norman Group - Breadcrumbs](https://www.nngroup.com/articles/breadcrumbs/)<br>
+[Baymard - Breadcrumbs](https://baymard.com/blog/implementing-mobile-hierarchy-breadcrumbs)

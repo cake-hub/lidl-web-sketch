@@ -1,5 +1,16 @@
 # Change log
 
+## [8.4.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.4.0) & [8.4.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.4.0) - 2021-10-28
+
+### Changed
+
+* `Sketch`, `Doc`: "Breadcrumb" | Changed design and behaviour
+
+### Added
+
+* `Sketch`, `Doc`: "Breadcrumb" | MD-XS component
+
+
 ## [8.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.1.0) & [8.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.1.0) - 2021-07-22
 
 ### Changed

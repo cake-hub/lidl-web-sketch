@@ -1,4 +1,4 @@
-<AlertWarning alertHeadline="Not modifiable">
+****<AlertWarning alertHeadline="Not modifiable">
 It is mandatory to maintain the appearance and behavior of these components.
 </AlertWarning>
 
@@ -287,17 +287,17 @@ They support the understanding of an information or function. Symbols are easier
 | Name | Icon | Purpose |
 |---|---|---|
 | bad | ![bad](assets/smiley/bad@1x.png) |  |
-| ♥ bad-solid | ![bad](assets/smiley/bad-solid@1x.png) |  |
+| bad-solid | ![bad](assets/smiley/bad-solid@1x.png) |  |
 | best | ![arrow-left](assets/smiley/best@1x.png) | happy, awesome |
-| ♥ best-solid | ![arrow-left](assets/smiley/best-solid@1x.png) | happy, awesome |
+| best-solid | ![arrow-left](assets/smiley/best-solid@1x.png) | happy, awesome |
 | better | ![arrow-right](assets/smiley/better@1x.png) | smile |
-| ♥ better-solid | ![arrow-right](assets/smiley/better-solid@1x.png) | smile |
+| better-solid | ![arrow-right](assets/smiley/better-solid@1x.png) | smile |
 | good | ![arrow-up](assets/smiley/good@1x.png) | glad |
-| ♥ good-solid | ![arrow-up](assets/smiley/good-solid@1x.png) | glad |
+| good-solid | ![arrow-up](assets/smiley/good-solid@1x.png) | glad |
 | neutral | ![cross](assets/smiley/neutral@1x.png) |  |
-| ♥ neutral-solid | ![cross](assets/smiley/neutral-solid@1x.png) |  |
+| neutral-solid | ![cross](assets/smiley/neutral-solid@1x.png) |  |
 | worst | ![undo](assets/smiley/worst@1x.png) | sad |
-| ♥ worst-solid | ![undo](assets/smiley/worst-solid@1x.png) | sad |
+| worst-solid | ![undo](assets/smiley/worst-solid@1x.png) | sad |
 
 ---
 
