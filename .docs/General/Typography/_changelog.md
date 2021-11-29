@@ -1,5 +1,12 @@
 # Change log
 
+## [8.5.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.5.0) & [8.5.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.5.0) - 2021-11-29
+
+### Added
+
+* `Doc`: "Typography" | Line height calculation is added to our workflow section
+
+
 ## [8.2.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.2.0) & [8.2.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.2.0) - 2021-08-19
 
 ### Added

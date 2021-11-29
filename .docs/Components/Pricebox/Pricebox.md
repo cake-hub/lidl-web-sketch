@@ -157,7 +157,27 @@ The pricebox contains several obligatory and optional elements and is available 
 
 ---
 
-## Our workflow in Sketch
+## Currencies examples
+
+Depending on the country, the currency symbol can be placed before or after the price. It may also be left out. The integration of the currency symbol is possible for all types of price notations. The following representations are exemplary and should be adapted to the guidelines depending on the country.
+
+Description | Preview
+---------|----------
+ without currency | ![No currency](assets/examples/no-currency@1x.png)
+ currency abbreviation (e.g. PLN) and dash sign (-) combination | ![Currency abbreviation right](assets/examples/currency-short-right-sign-left@1x.png)<br>![Currency abbreviation](assets/examples/currency-short-right-sign-right@1x.png)
+ only currency abbreviation (e.g. PLN) | ![Currency abbreviation left](assets/examples/currency-short@1x.png)
+ currency (e.g. £, €) variation | ![ Currency before price](assets/examples/currency-before-price@1x.png)<br>![ Currency after price](assets/examples/currency-after-price@1x.png)
+ currency (e.g. £, €) and dash sign (-) combination | ![ Currency before price sign right](assets/examples/currency-before-price-sign-right@1x.png)<br>![ Currency before price sign right](assets/examples/currency-before-price-sign-left@1x.png)<br>![ Currency after price sign right](assets/examples/currency-after-price-sign-right@1x.png)<br>![ Currency after price sign left](assets/examples/currency-after-price-sign-left@1x.png)
+ dash sign (-) variations | ![No currency sign right](assets/examples/no-currency-sign-right@1x.png)<br>![No currency sign left](assets/examples/no-currency-sign-left@1x.png)
+
+
+### References
+
+> [LIDL Brand Portal](https://www.brand.lidl/brandelements/brandelements/view/id/767)<br>
+
+---
+
+## Our workflow
 
 - Use the "Overrides"-function to change the text.
 - Enter the text first. Then adjust the width of the symbol.

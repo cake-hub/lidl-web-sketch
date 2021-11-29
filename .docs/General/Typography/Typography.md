@@ -318,7 +318,9 @@ It helps you to present your design and content as clearly and effectively as po
 
 ---
 
-## Our workflow in Sketch
+## Our workflow
 
-- All text-styles are included in our CAKE UI Core file.
+- All text styles are included in our CAKE UI Fundamental file.
 - Use only these styles!
+- The desired line-height can be calculated in your preferred tool in the line-height input field by using multiplication:
+  - Font size \* line height decimal number and then press enter. For example 120% line height for 18px text is calculated this way: <br>18 \* 1,2 = 21,6<br>![Line height calculation](assets/calculation/line-height.png)

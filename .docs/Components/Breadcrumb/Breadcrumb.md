@@ -47,7 +47,7 @@ It is positioned near the header and displays navigational hierarchy to the cust
 | Vertical spacing | padding: 16px | ![Breadcrumb: vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
 | Size | home icon: 16x16px | ![Breadcrumb: icon-size](assets/measurements/size/icon@1x.png)|
 | Width | dependent on the text length of all breadcrumb levels | ![Breadcrumb: complete](assets/measurements/complete@1x.png) |
-
+| Pipe sign | height:<br>LG: 13 px <br> MD-XS: 11px | LG-XS<br>width: 1px |
 ---
 
 ## Behavior
