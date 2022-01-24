@@ -60,7 +60,7 @@ If the horizontal space doesn't allow it, the last breadcrumb level is shortened
 
 ### MD-XS
 
-Due to the lack of space on smaller screens breadcrumbs show only the ellipsis followed by the last subcategory/category to which the current page belongs to. Tapping on the ellipsis leads the user to the topmost parent category. <br> ![Breadcrumb: behaviour](assets/behaviour@1x.png)
+Due to the lack of space on smaller screens breadcrumbs show the ellipsis followed by the last subcategory/category to which the current page belongs to. Tapping on the ellipsis leads the user to the topmost parent category. <br> ![Breadcrumb: behaviour](assets/behaviour-xs-ellipsis@1x.png)<br> The breadcrumb in combination with the home icon is only displayed when a single category page is shown.<br>![Breadcrumb: behaviour](assets/behaviour-xs-home@1x.png)
 
 ---
 
