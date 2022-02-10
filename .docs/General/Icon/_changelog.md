@@ -1,5 +1,20 @@
 # Change log
 
+## [8.7.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.7.0) & [8.7.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.7.0) - 2022-02-10
+
+### Changed
+
+* `Sketch`: "Icon" | All icons are updated with the latest versions from the brand portal
+
+### Added
+
+* `Doc`: "Icon" | Added icon hand-coins
+
+### Highlights
+
+* `Sketch`, `Doc`: "Icon" | Store locator pins are available
+
+
 ## [8.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.1.0) & [8.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.1.0) - 2021-07-22
 
 ### Changed

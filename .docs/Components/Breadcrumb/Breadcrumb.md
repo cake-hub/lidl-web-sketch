@@ -13,7 +13,7 @@ It is positioned near the header and displays navigational hierarchy to the cust
 ## Recommendations
 
 - Based on the [Baymard studies](#references) we follow these recommendations:
-  - "Display only the parent category or subcategory to which the current product belongs."
+  - "Display only the parent categories or subcategories to which the current product belongs."
   - "Avoid overcategorization."
   - "Don't wrap breadcrumbs to a second line."
 - If the category page is the starting page then no breadcrumbs are shown.

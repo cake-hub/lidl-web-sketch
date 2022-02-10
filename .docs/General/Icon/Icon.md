@@ -277,6 +277,7 @@ They support the understanding of an information or function. Symbols are easier
 | voucher-gift | ![voucher-euro](assets/payment/voucher-gift@1x.png) | gift, voucher |
 | voucher-percentage | ![voucher-percentage](assets/payment/voucher-percentage@1x.png) |  |
 | wallet-coins | ![wallet-coins](assets/payment/wallet-coins@1x.png) |  |
+| ♥ hand-coins | ![hand-coins](assets/payment/hand-coins@1x.png) | cash back, guarantee, rent |
 
 ---
 
@@ -359,6 +360,26 @@ They support the understanding of an information or function. Symbols are easier
 | packstation | ![packstation](assets/transport_logistic/packstation@1x.png) |  |
 | plane | ![plane](assets/transport_logistic/plane@1x.png) | travel |
 | truck | ![truck](assets/transport_logistic/truck@1x.png) | delivery |
+
+---
+
+## Store locator pin
+
+- It is used to show location of Lidl retail stores on a map. It can also be used to display availability states of products with a "traffic light" logic.
+- Customers can select a store on a map by clicking/tapping on one of the pins.
+- If there is a need to show availability state on a product tile or on a product detail page use [availability badge](https://www.cake.schwarz/Lidl/Web/Design/Components/Availability_badge/Availability_badge.html).
+- Selected pin always scales up and an additional circle appears at the bottom of the pin.
+- If customer changes i.e. color or size of a product - the store locator pin can change its visual appearance according to the availability of product's variant.
+
+| Type | Store: default | Store: selected | My store: default | My store: selected | Color |
+|---|---|---|---|---|---|
+| ♥ group\* | ![store-locator group default](assets/store-locator-pins/group@1x.png) | - | - | - | gray-darker
+| ♥ no data available | ![store-locator no data available](assets/store-locator-pins/no-data-available/store-default@1x.png) | ![store-locator no data available selected](assets/store-locator-pins/no-data-available/store-selected@1x.png) | ![mystore-locator no data available default](assets/store-locator-pins/no-data-available/my-store-default@1x.png) | ![mystore-locator no data available selected](assets/store-locator-pins/no-data-available/my-store-selected@1x.png) | pin/circle color: gray-base <br> inside-icon-color: basic-white
+| ♥ available | ![store-locator available default](assets/store-locator-pins/available/store-default@1x.png) | ![store-locator available selected](assets/store-locator-pins/available/store-selected@1x.png) | ![mystore-locator available default](assets/store-locator-pins/available/my-store-default@1x.png) | ![mystore-locator available selected](assets/store-locator-pins/available/my-store-selected@1x.png) | pin/circle color: success-base <br> inside-icon-color: basic-white
+| ♥ low stock | ![store-locator low stock default](assets/store-locator-pins/low-stock/store-default@1x.png) | ![store-locator low stock selected](assets/store-locator-pins/low-stock/store-selected@1x.png) | ![mystore-locator low stock default](assets/store-locator-pins/low-stock/my-store-default@1x.png) | ![mystore-locator low stock selected](assets/store-locator-pins/low-stock/my-store-selected@1x.png) | pin/circle color: mark-darker <br> inside-icon-color: basic-white
+| ♥ sold out | ![store-locator sold out default](assets/store-locator-pins/sold-out/store-default@1x.png) | ![store-locator sold out selected](assets/store-locator-pins/sold-out/store-selected@1x.png) | ![mystore-locator sold out default](assets/store-locator-pins/sold-out/my-store-default@1x.png) | ![mystore-locator sold out selected](assets/store-locator-pins/sold-out/my-store-selected@1x.png) | pin/circle color: danger-dark <br> inside-icon-color: basic-white
+
+\* The group icon can be combined with an [addon badge](https://www.cake.schwarz/Lidl/Web/Design/Components/Badge/Badge.html#addon) to represent a group of stores.
 
 ---
 
