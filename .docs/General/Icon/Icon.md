@@ -277,7 +277,7 @@ They support the understanding of an information or function. Symbols are easier
 | voucher-gift | ![voucher-euro](assets/payment/voucher-gift@1x.png) | gift, voucher |
 | voucher-percentage | ![voucher-percentage](assets/payment/voucher-percentage@1x.png) |  |
 | wallet-coins | ![wallet-coins](assets/payment/wallet-coins@1x.png) |  |
-| ♥ hand-coins | ![hand-coins](assets/payment/hand-coins@1x.png) | cash back, guarantee, rent |
+| ✨ hand-coins | ![hand-coins](assets/payment/hand-coins@1x.png) | cash back, guarantee, rent |
 
 ---
 
@@ -373,13 +373,57 @@ They support the understanding of an information or function. Symbols are easier
 
 | Type | Store: default | Store: selected | My store: default | My store: selected | Color |
 |---|---|---|---|---|---|
-| ♥ group\* | ![store-locator group default](assets/store-locator-pins/group@1x.png) | - | - | - | gray-darker
-| ♥ no data available | ![store-locator no data available](assets/store-locator-pins/no-data-available/store-default@1x.png) | ![store-locator no data available selected](assets/store-locator-pins/no-data-available/store-selected@1x.png) | ![mystore-locator no data available default](assets/store-locator-pins/no-data-available/my-store-default@1x.png) | ![mystore-locator no data available selected](assets/store-locator-pins/no-data-available/my-store-selected@1x.png) | pin/circle color: gray-base <br> inside-icon-color: basic-white
-| ♥ available | ![store-locator available default](assets/store-locator-pins/available/store-default@1x.png) | ![store-locator available selected](assets/store-locator-pins/available/store-selected@1x.png) | ![mystore-locator available default](assets/store-locator-pins/available/my-store-default@1x.png) | ![mystore-locator available selected](assets/store-locator-pins/available/my-store-selected@1x.png) | pin/circle color: success-base <br> inside-icon-color: basic-white
-| ♥ low stock | ![store-locator low stock default](assets/store-locator-pins/low-stock/store-default@1x.png) | ![store-locator low stock selected](assets/store-locator-pins/low-stock/store-selected@1x.png) | ![mystore-locator low stock default](assets/store-locator-pins/low-stock/my-store-default@1x.png) | ![mystore-locator low stock selected](assets/store-locator-pins/low-stock/my-store-selected@1x.png) | pin/circle color: mark-darker <br> inside-icon-color: basic-white
-| ♥ sold out | ![store-locator sold out default](assets/store-locator-pins/sold-out/store-default@1x.png) | ![store-locator sold out selected](assets/store-locator-pins/sold-out/store-selected@1x.png) | ![mystore-locator sold out default](assets/store-locator-pins/sold-out/my-store-default@1x.png) | ![mystore-locator sold out selected](assets/store-locator-pins/sold-out/my-store-selected@1x.png) | pin/circle color: danger-dark <br> inside-icon-color: basic-white
+| ✨ group\* | ![store-locator group default](assets/store-locator-pins/group@1x.png) | - | - | - | gray-darker
+| ✨ no data available | ![store-locator no data available](assets/store-locator-pins/no-data-available/store-default@1x.png) | ![store-locator no data available selected](assets/store-locator-pins/no-data-available/store-selected@1x.png) | ![mystore-locator no data available default](assets/store-locator-pins/no-data-available/my-store-default@1x.png) | ![mystore-locator no data available selected](assets/store-locator-pins/no-data-available/my-store-selected@1x.png) | pin/circle color: gray-base <br> inside-icon-color: basic-white
+| ✨ available | ![store-locator available default](assets/store-locator-pins/available/store-default@1x.png) | ![store-locator available selected](assets/store-locator-pins/available/store-selected@1x.png) | ![mystore-locator available default](assets/store-locator-pins/available/my-store-default@1x.png) | ![mystore-locator available selected](assets/store-locator-pins/available/my-store-selected@1x.png) | pin/circle color: success-base <br> inside-icon-color: basic-white
+| ✨ low stock | ![store-locator low stock default](assets/store-locator-pins/low-stock/store-default@1x.png) | ![store-locator low stock selected](assets/store-locator-pins/low-stock/store-selected@1x.png) | ![mystore-locator low stock default](assets/store-locator-pins/low-stock/my-store-default@1x.png) | ![mystore-locator low stock selected](assets/store-locator-pins/low-stock/my-store-selected@1x.png) | pin/circle color: mark-darker <br> inside-icon-color: basic-white
+| ✨ sold out | ![store-locator sold out default](assets/store-locator-pins/sold-out/store-default@1x.png) | ![store-locator sold out selected](assets/store-locator-pins/sold-out/store-selected@1x.png) | ![mystore-locator sold out default](assets/store-locator-pins/sold-out/my-store-default@1x.png) | ![mystore-locator sold out selected](assets/store-locator-pins/sold-out/my-store-selected@1x.png) | pin/circle color: danger-dark <br> inside-icon-color: basic-white
 
 \* The group icon can be combined with an [addon badge](https://www.cake.schwarz/Lidl/Web/Design/Components/Badge/Badge.html#addon) to represent a group of stores.
+
+---
+
+## Energy Efficiency Labels (EEL)
+
+- The new labels allow consumers to assess their electricity consumption more quickly and accurately.
+- In March 2021, the new, revised energy labels were introduced for certain product categories of electrical appliances, which are no longer compatible with the old labels.
+  - There exist **two EEL** (please ensure to use the right label for the product):
+    - EEL 2021 (Energy Efficiency Class A, B, C, D, E, F, G)
+    - EEL before 2021 (Energy Efficiency Class A, A+, A++, A+++, B, C, D)
+- By 2030, all relevant product categories should be labeled with the new EU energy labels, and until then both energy labels will be in use.
+- Based on the official legal rights, ensure to use the **compatible size** of the EEL according to the pricebox letter's **x-height**. The medium EEL matches the medium pricebox and the small EEL matches the small pricebox.
+- The colors and the fonts **cannot be modified**!
+- EEL SVG files are available for download [here](https://cdn.cake.schwarz/index.html).
+
+### Energy Efficiency Labels size
+
+Breakpoint | Pricebox size | EEL size | Preview
+---------|----------|---------|---------
+ LG-XS | medium | medium | ![EEL x-height medium](assets/energy-labels/measurements/medium@1x.png)
+ LG-XS | small | small | ![EEL x-height small](assets/energy-labels/measurements/small@1x.png)
+
+### Energy Efficiency Labels overview
+
+Energy Efficiency Class | Year | Preview
+---------|----------|----------
+ EEL-A | 2021 | ![EEL A](assets/energy-labels/2021/a@1x.png)
+ EEL-B | 2021 | ![EEL B](assets/energy-labels/2021/b@1x.png)
+ EEL-C | 2021 | ![EEL C](assets/energy-labels/2021/c@1x.png)
+ EEL-D | 2021 | ![EEL D](assets/energy-labels/2021/d@1x.png)
+ EEL-E | 2021 | ![EEL E](assets/energy-labels/2021/e@1x.png)
+ EEL-F | 2021 | ![EEL F](assets/energy-labels/2021/f@1x.png)
+ EEL-G | 2021 | ![EELG](assets/energy-labels/2021/g@1x.png)
+ EEL-A | before 2021 | ![EEL A](assets/energy-labels/before-2021/a@1x.png)
+ EEL-A+ | before 2021 | ![EEL A+](assets/energy-labels/before-2021/a+@1x.png)
+ EEL-A++ | before 2021 | ![EEL A++](assets/energy-labels/before-2021/a++@1x.png)
+ EEL-A+++ | before 2021 | ![EEL A+++](assets/energy-labels/before-2021/a+++@1x.png)
+ EEL-B | before 2021 | ![EEL B](assets/energy-labels/before-2021/b@1x.png)
+ EEL-C | before 2021 | ![EEL C](assets/energy-labels/before-2021/c@1x.png)
+ EEL-D | before 2021 | ![EEL D](assets/energy-labels/before-2021/d@1x.png)
+
+### References
+
+> [UID-677 | Energy Efficiency Labels] According to Legal Requirements for Mindshift
 
 ---
 

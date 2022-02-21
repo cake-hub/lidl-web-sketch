@@ -6,7 +6,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 Use ribbons to add unique selling prepositions or other information.
 
-Basically it is positioned in a context with a product tile, teaser, or image.
+Basically it is positioned in a context with a teaser or image.
 
 ---
 

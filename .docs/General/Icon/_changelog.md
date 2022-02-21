@@ -1,5 +1,12 @@
 # Change log
 
+## [8.8.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.8.0) & [8.8.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.8.0) - 2022-02-21
+
+### Highlights
+
+* `Sketch`, `Doc`: "Energy Efficiency Labels" | Added energy efficiency labels 2021 and energy efficiency labels before 2021
+
+
 ## [8.7.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.7.0) & [8.7.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.7.0) - 2022-02-10
 
 ### Changed

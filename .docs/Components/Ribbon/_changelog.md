@@ -1,5 +1,12 @@
 # Change log
 
+## [8.8.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.8.0) & [8.8.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.8.0) - 2022-02-21
+
+### Changed
+
+* `Doc`: "Ribbon"  | Updated documentation preview assets
+
+
 ## [8.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.1.0) & [8.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.1.0) - 2021-07-22
 
 ### Changed
