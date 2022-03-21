@@ -10,7 +10,7 @@ A reference for the user that can lead directly to an external or internal desti
 
 ## Overall styling
 
-- The text-style depends on the body text and is either [small,](../../General/Typography/Typography.md#small) [basic](../../General/Typography/Typography.md#basic) or [large](../../General/Typography/Typography.md#large).
+- The text-style depends on the body text and is either [small](../../General/Typography/Typography.md#small), [small bold](../../General/Typography/Typography.md#small-bold), [basic](../../General/Typography/Typography.md#basic), [basic bold](../../General/Typography/Typography.md#basic-bold), [large](../../General/Typography/Typography.md#large) or [large bold](../../General/Typography/Typography.md#large-bold).
 - The line-height is set to **default**.
 - A link can have multiple states: **default/visited**, **hover/focus**, **active/pressed**.
 - The appearance of the state depends on the usage or context.

@@ -154,11 +154,11 @@ Colors help to emphasize and highlight your brand's appearance.
 
 ---
 
-## Theme colors
+## *DEPRECATED Theme colors*
 
 - The brand-primary color can be changed according to the desired project color.
 
-### Wine
+###  *DEPRECATED Wine*
 
 - The wine theme e.g. uses burgundy instead of blue as it's brand-primary color.
 - Use this shades of red if you are designing or layouting a LIDL wine theme.

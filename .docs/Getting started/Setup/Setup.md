@@ -1,10 +1,12 @@
 # Setup
 
-CAKE UI Fundamental library is a rudimentary symbol library and has to be linked first in Sketch in order for all the other CAKE UI products to work (e.g. App, Chatbot, Web, Mail, … ).
+CAKE UI Fundamental library is a rudimentary symbol library and has to be enabled first in Sketch or in Figma in order for all the other CAKE UI products to work (e.g. App, Chatbot, Web, Mail, … ).
 
 ---
 
-## Option 1: Smart links
+## Sketch
+
+### Option 1: Smart links 
 
 By opening the smart links, Sketch application is going to automatically add the corresponding library to your list of libraries. In case of library updates you will receive a notification in Sketch that a library update is available.
 
@@ -13,7 +15,7 @@ By opening the smart links, Sketch application is going to automatically add the
 | Fundamental | [Open in Sketch](sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcake-hub%2Flidl-sketch%2Fmaster%2Fsketch.xml) |
 | Web | [Open in Sketch](sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcake-hub%2Flidl-web-sketch%2Fmaster%2Fsketch.xml) |
 
-## Option 2: External software
+### Option 2: External software
 
 Applications like for example Sourcetree can be used to get access to our CAKE libraries and the repositories below have to be cloned there.
 
@@ -29,7 +31,7 @@ Follow this tutorial if you:
 1. **have not added** library files and **have not used** plugins in Sketch.
 
 
-### Clone repositories
+#### Clone repositories
 
 | Steps | Description | Preview |
 |---|---|---|
@@ -40,16 +42,16 @@ Follow this tutorial if you:
 | 5 | Complete this process by hitting the button "Clone". | ![Step 5: Clone](assets/repositories/7-clone.png)|
 
 
-### Add libraries
+#### Add libraries
 
 | Steps | Description | Preview |
 |---|---|---|
-| 1 | Go to the preferences section in your Sketch software. | ![Step 1: Preferences](assets/sketch/1-preferences.png)|
+| 1 | Go to the preferences section in your Sketch software. | ![Step 1: Preferences](assets/sketch/1-preferences.png)|****
 | 2 | Choose the tab "Libraries" to show an overview of all your linked library files in Sketch. | ![Step 2: Libraries](assets/sketch/2-libraries.png)|
 | 3 | Click on the "Add Library…" button and choose the library file (e.g. LIDL CAKE UI Fundamental) from your new cloned folder. | ![Step 3: Add library](assets/sketch/3-add-library.png)|
 
 
-## Advanced
+### Advanced
 
 Follow this tutorial if you already:
 
@@ -82,6 +84,25 @@ Follow this tutorial if you already:
 | 2 | Choose the tab "Libraries" to show an overview of all your linked library files in Sketch. | ![Step 2: Libraries](assets/sketch/2-libraries.png)|
 | 3 | Right-click on the missing library file and locate it again to your new cloned folder. | ![Step 3: Locate library](assets/sketch/4-locate-library.png)|
 
+
+---
+
+## Figma
+
+In order for you to be able to use the Fundamental library in your own Figma design file it has to be enabled first.
+
+| Steps | Description | Preview |
+|---|---|---|
+| 1 | Open the top left Figma menu inside of a design file and choose "Libraries".  | ![Step 1: Open libraries](assets/figma/setup-step-1.png) |
+| 2 | Enable the library from the Figma “Assets” Panel (Shortcut Option + 3), search for the LIDL CAKE UI Fundamental library and enable it with the toggle switch. | ![Step 2: Enable library](assets/figma/setup-step-2.png)|
+
+### Download Figma library
+
+LIDL CAKE UI Fundamental library is available on our github. Download it and publish it inside your Figma account. Enable the library in your working file to use it.
+
+[Figma library - LIDL CAKE UI Fundamental](https://github.com/cake-hub/lidl-figma.git)
+
+---
 
 ## Migration
 

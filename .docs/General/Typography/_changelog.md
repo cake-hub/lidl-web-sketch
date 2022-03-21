@@ -1,5 +1,12 @@
 # Change log
 
+## [8.9.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.9.0) & [8.9.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.9.0) - 2022-03-21
+
+### Added
+
+* `Figma`: "Typography" | Added text styles to Figma library
+
+
 ## [8.5.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.5.0) & [8.5.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.5.0) - 2021-11-29
 
 ### Added
