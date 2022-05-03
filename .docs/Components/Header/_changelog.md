@@ -1,5 +1,12 @@
 # Change log
 
+## [9.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v9.0.0) & [9.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v9.0.0) - 2022-05-03
+
+### Changed
+
+* `Sketch`, `Doc`: "Header" | Adapt component to new grid settings and marked documentation with deviating measurements
+
+
 ## [8.3.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.3.0) & [8.3.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.3.0) - 2021-10-01
 
 ### Fixed

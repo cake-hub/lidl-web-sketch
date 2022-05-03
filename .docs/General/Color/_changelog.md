@@ -2,10 +2,6 @@
 
 ## [8.9.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.9.0) & [8.9.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.9.0) - 2022-03-21
 
-### Added
-
-* `Figma`: "Color" | Added brand colors to Figma library
-
 ### Deprecated
 
 * `Sketch`, `Doc`: "Color" | Defined wine color theme is not necessary

@@ -1,12 +1,5 @@
 # Change log
 
-## [8.9.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.9.0) & [8.9.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.9.0) - 2022-03-21
-
-### Added
-
-* `Figma`: "Icon" | Added icons to Figma library
-
-
 ## [8.8.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.8.0) & [8.8.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.8.0) - 2022-02-21
 
 ### Highlights

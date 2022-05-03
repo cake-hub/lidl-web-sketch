@@ -4,6 +4,4 @@
 
 ### Added
 
-* `Figma`: "Link" | Added link components to Figma library
-
 * `Doc`: "Link" | Added small bold, basic bold and large bold to overall styling

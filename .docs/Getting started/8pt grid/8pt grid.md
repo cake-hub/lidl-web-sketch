@@ -20,7 +20,8 @@ All our layout resolutions fulfill this requirement:
 
 | LG | MD | SM | XS |
 |---|---|---|---|
-| `1280x1024px` | `960x600px` | `600x960px` | `320x568px` |
+| `1280x1080px` | `960x600px` | `600x960px` | `360x640px` |
+| Desktop Full HD | Nexus 7 (landscape) | Nexus 7 (portrait) | Google Pixel 2 |
 
 ---
 
