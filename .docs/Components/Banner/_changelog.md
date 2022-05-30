@@ -1,5 +1,12 @@
 # Change log
 
+## [10.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v10.0.0) & [10.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v10.0.0) - 2022-05-30
+
+### Changed
+
+* `Sketch`, `Doc`: "Banner" | Adjusted to new grid settings
+
+
 ## [8.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.1.0) & [8.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.1.0) - 2021-07-22
 
 ### Changed

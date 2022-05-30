@@ -1,6 +1,6 @@
 # Migration guide
 
-## Update version 8.x to 9.x
+## Update version 8.x to 9.x and 9.x to 10.x
 
 ### New Grid margins and XS breakpoint
 
@@ -15,7 +15,6 @@ Proof the **artboard sizes** for your project.<br>
 Select your artboard and edit on the custom toolbar **View/Layout settings** or navigate on the menu item **View/Canvas/Layout settings**. Enter the new documented values for the selected breakpoint and confirm.
 
 ### Step 2: Update components
-
 
 Description | Preview
 ---------|----------

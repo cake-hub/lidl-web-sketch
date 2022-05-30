@@ -16,13 +16,6 @@ Use increments of 8 to size and space out the elements on a page. This means tha
 - Scaling 5px by 1.5x will result in a half pixel offset.
 - It fits the frontend values of rem (16px).
 
-All our layout resolutions fulfill this requirement:
-
-| LG | MD | SM | XS |
-|---|---|---|---|
-| `1280x1080px` | `960x600px` | `600x960px` | `360x640px` |
-| Desktop Full HD | Nexus 7 (landscape) | Nexus 7 (portrait) | Google Pixel 2 |
-
 ---
 
 ## What is the value?

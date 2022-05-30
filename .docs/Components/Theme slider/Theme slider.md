@@ -2,10 +2,6 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-<AlertDanger alertHeadline="Important">
-Please note that the dimensions in the documentation differ from the new grid!!
-</AlertDanger>
-
 # Theme slider
 
 The theme slider is a navigation bar for special offers and topics that should be displayed prominently to the user with pictures.
@@ -61,7 +57,7 @@ All offers are listed horizontally next to each other. Sliding of offers is a ch
 |---|---|---|
 | LG | width: 1264px | ![complete: LG](assets/measurements/LG/complete@1x.png) |
 | MD+SM | width: 944px (MD)<br>width: 584px (SM) | ![complete: MD+SM](assets/measurements/MD+SM/complete@1x.png) |
-| XS | width: 304px |  ![complete: XS](assets/measurements/XS/complete@1x.png) |
+| XS | width: 344px |  ![complete: XS](assets/measurements/XS/complete@1x.png) |
 
 ### Item
 

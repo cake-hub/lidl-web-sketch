@@ -2,10 +2,6 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-<AlertDanger alertHeadline="Important">
-Please note that the dimensions in the documentation differ from the new grid!!
-</AlertDanger>
-
 # Header
 
 The header is one of the essential components to create brand awareness.

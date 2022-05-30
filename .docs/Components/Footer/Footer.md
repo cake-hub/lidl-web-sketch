@@ -2,10 +2,6 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-<AlertDanger alertHeadline="Important">
-Please note that the dimensions in the documentation differ from the new grid!!
-</AlertDanger>
-
 # Footer
 
 Use the footer to help the customer with additional information and navigation at the bottom of a website.
@@ -71,7 +67,7 @@ The default footer contains the following elements:
 |LG|width: max. 1264px (the gray background expandes over the whole screen)<br>vertical space: 32px<br>horizontal space: 8px|![footer LG](assets/measurements/LG@1x.png)|
 |SM|width: 944px<br>vertical space: 32px<br>horizontal space: 8px|![footer MD](assets/measurements/MD@1x.png)|
 |MD|width: 584px<br>vertical space: 32px<br>horizontal space: 8px|![footer SM](assets/measurements/SM@1x.png)|
-|XS|width: 304px<br>vertical space: 32px<br>horizontal space: 8px|![footer XS](assets/measurements/XS@1x.png)|
+|XS|width: 344px<br>vertical space: 32px<br>horizontal space: 8px|![footer XS](assets/measurements/XS@1x.png)|
 
 ### Element spaces
 

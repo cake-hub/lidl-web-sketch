@@ -54,10 +54,10 @@ The product tile is a basic component which can be combined with other component
 
 | Types | Attributes | Preview |
 |---|---|---|
-| LG | 4 tiles with width over 3 columns | ![position: LG](assets/position/LG@1x.png) |
-| MD | 4 tiles with width over 3 columns | ![position: MD](assets/position/MD@1x.png)|
-| SM | 2 tiles with width over 2 columns | ![position: SM](assets/position/SM@1x.png) |
-| XS | 2 tiles with width over 1 column | ![position: XS](assets/position/XS@1x.png) |
+| LG | 4 tiles with width over 12 columns | ![position: LG](assets/position/LG@1x.png) |
+| MD | 4 tiles with width over 12 columns | ![position: MD](assets/position/MD@1x.png)|
+| SM | 2 tiles with width over 12 columns | ![position: SM](assets/position/SM@1x.png) |
+| XS | 2 tiles with width over 4 columns | ![position: XS](assets/position/XS@1x.png) |
 
 ---
 

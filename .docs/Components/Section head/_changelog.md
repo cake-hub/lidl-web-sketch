@@ -1,10 +1,17 @@
 # Change log
 
+## [10.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v10.0.0) & [10.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v10.0.0) - 2022-05-30
+
+### Changed
+
+* `Sketch`: "Section head" | Adjusted to new grid settings
+
+
 ## [9.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v9.0.0) & [9.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v9.0.0) - 2022-05-03
 
 ### Changed
 
-* `Sketch`: "Section head" | Adapt component to new grid settings
+* `Sketch`: "Section head" | Adapted component to new grid settings
 
 
 ## [8.9.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.9.0) & [8.9.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.9.0) - 2022-03-21
