@@ -1,5 +1,12 @@
 # Change log
 
+## [11.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v11.0.0) & [11.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v11.0.0) - 2022-07-25
+
+### Added
+
+* `Sketch`, `Doc`: "Form" | Added text area component for long text input
+
+
 ## [10.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v10.0.0) & [10.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v10.0.0) - 2022-05-30
 
 ### Changed

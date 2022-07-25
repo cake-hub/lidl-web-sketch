@@ -1,5 +1,12 @@
 # Change log
 
+## [11.0.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v11.0.0) & [11.0.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v11.0.0) - 2022-07-25
+
+### Highlights
+
+* `Sketch`, `Doc`: "LIDL Plus Pricebox" | Updated LIDL Plus pricebox with new legal info requirement
+
+
 ## [8.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.1.0) & [8.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.1.0) - 2021-07-22
 
 ### Changed

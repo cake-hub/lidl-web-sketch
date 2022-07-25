@@ -113,9 +113,31 @@ They are an important element in online shops, so it is even more essential that
 
 ---
 
+## Text area
+
+- Use text area when there is a need for collecting long responses. They are typically used when users are required to leave feedback.
+- Text area element always contains a **placeholder text**. That way users are encouraged to interact with it.
+- Container has a fixed height and becomes scrollable if there are more than **four lines** of text. Once it is scrollable, a scroll bar appears as an indicator (scroll bar style and behavior depend on the browser).
+
+| Behavior | Preview |
+|---|---|
+Text overflow is hidden inside the container. When the text is scrolled, it is cut at the top and bottom outline of the container. | ![input-field: placeholder](assets/measurements/freetextarea/uxbehaviour@1x.png) |
+
+| States | Attributes | Preview |
+|---|---|---|
+| Placeholder | text-color: gray-base<br>border: gray-base | ![input-field: placeholder](assets/freetextarea/placeholder@1x.png) |
+| Placeholder-Hover | text-color: gray-base<br>border: brand-primary-base | ![input-field: placeholder-hover](assets/freetextarea/placeholder-hover@1x.png)|
+| Focus (text input) | text-color: gray-darker<br>border: brand-primary-base | ![input-field: focus (text input)](assets/freetextarea/focus@1x.png) |
+| Default | text-color: brand-primary-base<br>border: gray-base |![input-field: default](assets/freetextarea/default@1x.png) |
+| Default-Hover | text-color: brand-primary-base<br>border: brand-primary-base|![input-field: default-hover](assets/freetextarea/default-hover@1x.png) |
+| Disabled | text-color: gray-base<br>border: gray-light | ![input-field: disabled](assets/freetextarea/disabled@1x.png) |
+| Error | text-color: danger-base<br>border: danger-base | ![input-field: error](assets/freetextarea/error@1x.png) |
+
+---
+
 ## Labels
 
-- Labels are part of the input- or select field.
+- Labels are part of the text area, input field and select field.
 - They use **basic-bold** as label- and **basic** as optional-text.
 - Give each form element a unique label.
 - The **(optional)** part is fixed and is used for labels where user input isn't mandatory.
@@ -130,8 +152,9 @@ They are an important element in online shops, so it is even more essential that
 
 | Type | Attributes | Preview
 |---|---|---|
-| Horizontal  | 8px margin between radiobutton (or checkbox) and optional text <br> 8px margin between label and optional text <br> 16px padding| ![spacing radiobutton](assets/measurements/radiobutton/spacing@1x.png) <br> ![spacing checkbox](assets/measurements/checkbox/spacing@1x.png)  <br>  ![spacing input field](assets/measurements/input-field/spacing@1x.png) |
-| Height | LG: 48px<br>MD-XS: 40px<br>Width depends on device and usage | ![measurements: height](assets/measurements/input-field/height@1x.png) |
+| Horizontal | 8px margin between radiobutton (or checkbox) and optional text <br> 8px margin between label and optional text <br>16px padding between text (or icon) and container<br>16px padding between text and container | ![spacing radiobutton](assets/measurements/radiobutton/spacing@1x.png) <br> ![spacing checkbox](assets/measurements/checkbox/spacing@1x.png)  <br>  ![spacing input field](assets/measurements/input-field/spacing@1x.png) <br> ![spacing freetextarea](assets/measurements/freetextarea/horizontalspacing@1x.png)|
+| Vertical | Input field: <br> Text is always centered to container height.<br><br> Text area:<br>LG: 11px<br>MD-XS: 9px| ![spacing centered-text](assets/measurements/input-field/centered-text@1x.png) <br> ![spacing freetextarea](assets/measurements/freetextarea/verticalspacing@1x.png)|
+| Height | Input field:<br>LG: 48px<br>MD-XS: 40px<br>Width depends on device and usage. <br><br>Text area:<br>LG: 135px<br>MD-XS: 120px| ![measurements: height](assets/measurements/input-field/height@1x.png) <br>  ![measurements: height](assets/measurements/input-field/height@1x.png) <br> ![measurements: height](assets/measurements/freetextarea/height@1x.png) |
 | Distance | 8px between form and label<br>32px between form blocks | ![spacing: forms](assets/measurements/input-field/forms@1x.png) |
 
 ---
