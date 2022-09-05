@@ -154,26 +154,6 @@ Colors help to emphasize and highlight your brand's appearance.
 
 ---
 
-## *DEPRECATED Theme colors*
-
-- The brand-primary color can be changed according to the desired project color.
-
-###  *DEPRECATED Wine*
-
-- The wine theme e.g. uses burgundy instead of blue as it's brand-primary color.
-- Use this shades of red if you are designing or layouting a LIDL wine theme.
-
-| Name | Values | Concept | Color |
-|---|---|---|---|
-| base | HEX: #B0082B<br>RGB: 176 / 8 / 43 | - | ![wine-base](assets/wine/base@1x.png) |
-| background | HEX: #FCF5F7<br>RGB: 252 / 245 / 247 | base<br>+96% white | ![wine-background](assets/wine/background@1x.png) |
-| lighter | HEX: #F2D7DD<br>RGB: 242 / 215 / 221 | base<br>+84% white | ![wine-lighter](assets/wine/lighter@1x.png) |
-| light | HEX: #E6B0BB<br>RGB: 230 / 176 / 187 | base<br>+68% white | ![wine-light](assets/wine/light@1x.png) |
-| dark | HEX: #940724<br>RGB: 148 / 7 / 36 | base<br>+16% black | ![wine-dark](assets/wine/dark@1x.png) |
-| darker | HEX: #77051A<br>RGB: 119 / 5 / 29 | base<br>+32% black | ![wine-darker](assets/wine/darker@1x.png) |
-
----
-
 ## Disabled
 
 - Use this color to display the disabled state in the positive buttons.

@@ -35,7 +35,7 @@ It supports the primary navigation and offers the user a fast option to navigate
 | Types | Attributes | Preview |
 |---|---|---|
 | Default | background: brand-primary-base<br>icon-color: basic-white | ![Fab default](assets/state/default@1x.png) |
-| Hover, focus and active | background: brand-primary-base<br>_additional basic-black with 32% opacity_<br>icon-color: basic-white | ![Fab hover, focus & active](assets/state/hover-focus-active@1x.png) |
+| Hover, focus and active | background: brand-primary-darker<br>icon-color: basic-white | ![Fab hover, focus & active](assets/state/hover-focus-active@1x.png) |
 
 ---
 

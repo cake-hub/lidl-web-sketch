@@ -1,5 +1,12 @@
 # Change log
 
+## [11.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v11.1.0) & [11.1.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v11.1.0) - 2022-09-05
+
+### Removed
+
+* `Sketch`, `Doc`: "Color" | Removed deprecated wine color theme
+
+
 ## [8.9.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v8.9.0) & [8.9.0 Web](https://github.com/cake-hub/lidl-web-sketch/tree/v8.9.0) - 2022-03-21
 
 ### Deprecated
