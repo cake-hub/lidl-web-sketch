@@ -18,9 +18,12 @@ Ad-tag component shows to the user that certain component is used for advertisin
 
 - The symbol has a general basic-white background for image advertisements.
 - The background can be changed to the transparent background when it is placed below a component, e.g. recommendation slider.
-- The ad-tag with transperency background works only on light backgrounds such as e.g gray-background.
-- The expression exclamation-circle icon is **optional** and can trigger a [popover](../Popover/Popover.md).
-- The text-length is limited to a **single word** only.
+- The ad-tag with transparency background works only on light backgrounds such as e.g gray-background.
+- The expression exclamation-circle is **optional** for banner elements.
+- The expression exclamation-circle is **required** for Product Listing ads.
+- The expression exclamation-circle icon triggers a [popover](../Popover/Popover.md).
+- The text-length is limited to a **single word** only and must be plural if more than one ad is labelled with a single ad-tag.
+
 
 | Size | Attributes | Preview | Variants |
 |---|---|---|---|
@@ -57,7 +60,7 @@ Ad-tag component shows to the user that certain component is used for advertisin
 | Position | Preview |
 |---|---|
 | Image ad | ![example: image](assets/example/image@1x.png) |
-| Reco slider ad | ![example: reco slider](assets/example/reco-slider@1x.png) |
+| Reco slider ad | ![example: reco slider](assets/example/reco-slider@1x.png) <br>From legal perspective it is necessary to use the plural form of the text, so that it is clear that all products in the slider are ads. |
 | Product tile ad| ![example: product tile](assets/example/product-tile@1x.png) |
 
 ---
