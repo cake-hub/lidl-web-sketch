@@ -4,7 +4,8 @@
 
 # Pricebox
 
-Use this component **only to promote a special LIDL Plus price** to the customer.
+Use this component **only to promote LIDL Plus price** to the customer. <br>
+Use the color combination danger-base / mark-base and the label "With Lidl Plus" to communicate a coherent price visualisation for Lidl Plus. If there is a need to combine an discount price for customers  who don't have Lidl Plus, please use the color combination basic-white / danger-base and label text  "Price without Lidl Plus".
 
 > Usage of the LIDL Plus price **must be coordinated with and permitted by the legal department of your LIDL country**.
 
@@ -14,18 +15,7 @@ Use this component **only to promote a special LIDL Plus price** to the customer
 
 | Attributes | Preview |
 |---|---|
-| 1. LIDL Plus pricebox <br> 2. LIDL Plus label <br> 3. Recommended retail price (rrp) <br> 4. Legal info ("Lidl Plus price") <br> 5. Basic quantity |![LIDL Plus: pricebox](assets/variants/pricebox@1x.png)|
-
----
-
-## Recommendations
-
-- You have to create the complete **LIDL Plus price** due to a rescaling problem out of the following elements:
-  - LIDL Plus pricebox
-  - recommended retail price (rrp)
-  - basic quantity
-- All other elements, i.e. the LIDL Plus label or legal info, are already implemented into the LIDL Plus price symbol.
-- Keep the text short and **single line**.
+| 1. Label “With Lidl Plus” <br> 2. Label <br> 3. Recommended retail price (rrp) <br> 4. LIDL Plus Pricebox <br> 5. Basic quantity |![LIDL Plus: pricebox](assets/variants/pricebox@1x.png)|
 
 ---
 
@@ -35,12 +25,15 @@ Use this component **only to promote a special LIDL Plus price** to the customer
 
 - The text-style is [pricebox-small](../../General/Typography/Typography.md#pricebox-small) or [pricebox-medium](../../General/Typography/Typography.md#pricebox-medium) for the two possible sizes of the price.
 - The text-style is [pricebox-addon](../../General/Typography/Typography.md#pricebox-addon) for asterisk, currency & prefix.
-- The text-color is **basic-black**.
-- The background-color is **mark-base**.
+- The text-color is **basic-white**.
+- The background-color is **danger-base**.
 - The line-height is set to **default**.
-- There are **two sizes** of this component for different purposes.
+- There are **two variant alignemnt** of this component for different purposes, **left-aligned** and **right-aligned**.
 - For each breakpoint, you can select a corresponding symbol with different price text sizes to suit your layout.
 - Additionally you can choose between a pricebox with or without prefix.
+- Keep the text short and **single line**.
+- Always show the Lidl Plus label with the wordings "With Lidl Plus".
+
 
 | Size | Usage | Preview |
 |---|---|---|
@@ -55,21 +48,22 @@ Use this component **only to promote a special LIDL Plus price** to the customer
 
 | Attributes | Preview |
 |---|---|
-| text-color: basic-white <br> background-color: info-base | ![LIDL Plus label ](assets/styling/label@1x.png) |
+| text-color: basic-back <br> background-color: mark-base | ![LIDL Plus label ](assets/styling/label@1x.png) |
 
 
 ### Legal info
 
-- The text-style is [pricebox-basic-quantity](../../General/Typography/Typography.md#pricebox-basic-quantity).
-- This element follows the styling of our [positive link version](../../General/Link/Link.md#positive-version).
-- Hovering over this info opens a [popover](../../Components/Popover/Popover.md) that shows the Lidl Plus info text.
-- The offset of the popover follows its [spacing & measurement](../../Components/Popover/Popover.md#spacing--measurements) guidelines.
+The text style for label "With Lidl Plus" is font-family: "Lidl Font Pro"; <br>
+- LG: font-size: 13px; font-style: normal; font-weight: 600; line-height: 20px; letter-spacing: 0.25px;<br>
+- SM-MD: font-size: 11px; font-style: normal; font-weight: 600; line-height: 16px; letter-spacing: 0.3px;<br>
+- XS: font-size: 11px; font-style: normal; font-weight: 600; line-height: 16px; letter-spacing: 0.3px;<br>
+- it is always positioned as first information.<br>
 
-> The legal info is a required addon for the complete **LIDL Plus coupon** and has a fix notation of "Lidl Plus price".
+> The legal info is a required addon for the complete **LIDL Plus Price** communication and has a fix notation of "Lidl Plus price".
 
-| Attributes | Preview | Behavior |
-|---|---|---|
-| text-color: info-base | ![legal info: LG](assets/styling/legal@1x.png) | ![behavior: popover](assets/behavior/popover@1x.png) |
+| Attributes | Preview |
+|---|---|
+| text-color: info-base | ![legal info: LG](assets/styling/legal@1x.png) 
 
 ### Basic quantity
 
@@ -89,7 +83,7 @@ Use this component **only to promote a special LIDL Plus price** to the customer
 
 | Attributes | Preview |
 |---|---|
-| text-color: basic-black <br> strike-color: danger-base | ![discount positive](assets/styling/discount@1x.png) |
+| text-color: basic-white <br> strike-color: basic-black | ![discount positive](assets/styling/discount@1x.png) |
 
 ---
 
@@ -135,7 +129,13 @@ Use this component **only to promote a special LIDL Plus price** to the customer
 
 > Use it only in combination with a **product tile, teaser or image**.
 
-- The pricebox is placed in the **lower right corner**.
-- The distance of the price to the borders of the product tile is **16px** each.
+- The pricebox is placed in the **lower left corner**.
+- The distance of the price to the borders of the product tile margins.
 
 ![position](assets/position/pricebox@1x.png)
+
+## Example
+
+Variants of visualisation Price with Lidl Plus
+
+![position](assets/examples/pricebox-variants%401x.png)

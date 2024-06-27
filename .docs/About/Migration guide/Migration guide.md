@@ -1,5 +1,43 @@
 # Migration guide
 
+## Update version 11.x to 12.x
+
+### Lidl Plus Price
+
+The Lidl Plus Plus Price will now communicate with new color combinations and a label text "With Lidl Plus"
+
+The component is available as a Figma component.
+
+![Grid setting update](assets/lidl-plus-price/migration-guide@1x.png)
+
+## Step 1: Connect Figma Library **LIDL CAKE UI Web - Apple Pie**
+
+OPT (Alt) + 3 search "LIDL CAKE UI Web - Apple Pie" and add it to your file<br>
+
+![Lidl Plus Price add librar](assets/lidl-plus-price/add-library.png)
+
+## Step 2: Open asset Panel and search
+
+Open the Figma asset panel and search for "Lidl Plus price" and drag and drop into your frame
+
+![Lidl Plus Price search asset panel](assets/lidl-plus-price/asset-panel.png)
+
+The component can be combined with "Discount Pricebox" and "Pricebox"
+
+![Lidl Plus Price search asset panel](assets/lidl-plus-price/combined-price.png)
+
+Step 3: Adjust content to your needs
+
+Use the properties panel to adjust the content of the Lidl Plus Price component to your needs.
+
+![Lidl Plus Price adjust content](assets/lidl-plus-price/adjust-content.png)
+
+Step 4: Happy usage with the documentation knowledge
+
+Use the component as it is described in documentation.
+
+---
+
 ## Update version 10.x to 11.x
 
 ### Lidl Plus Pricebox and Lidl Plus Coupons updates
